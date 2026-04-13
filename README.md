@@ -73,13 +73,13 @@ print(df.head())
 | athletics.cam    | available | $22.98    | —             | 69             | 52     | 9      | namecheap              |
 | academic.cam     | resell    | $4,023.85 | $29.99        | 96             | 21     | 8      | Realtime Register B.V. |
 | ace.cam          | premium   | $1,875    | $29.99        | 88             | 57     | 3      | name.com               |
-| forge.cam        | available | $22.98    | —             | 62             | 45     | 5      | namecheap              |
+| forge.cam        | available | $22.98    | —             | 62             | 44     | 5      | namecheap              |
 | accessory.cam    | resell    | $4,023.85 | $29.99        | 84             | 10     | 9      | Realtime Register B.V. |
 | good.cam         | premium   | $1,000    | $29.99        | 82             | 55     | 4      | name.com               |
-| shared.cam       | available | $22.98    | —             | 70             | 39     | 6      | namecheap              |
+| gather.cam       | available | $22.98    | —             | 96             | 39     | 6      | namecheap              |
 | universal.cam    | resell    | —         | —             | 96             | 81     | 9      | Dynadot LLC            |
 | fast.cam         | premium   | $1,875    | $29.99        | 82             | 53     | 4      | name.com               |
-| gather.cam       | available | $22.98    | —             | 96             | 38     | 6      | namecheap              |
+| shared.cam       | available | $22.98    | —             | 70             | 39     | 6      | namecheap              |
 | entrepreneur.cam | resell    | —         | —             | 78             | 80     | 12     | Porkbun, LLC           |
 | true.cam         | premium   | $1,875    | $29.99        | 86             | 52     | 4      | name.com               |
 | unify.cam        | available | $22.98    | —             | 72             | 38     | 5      | namecheap              |
