@@ -1,10 +1,10 @@
-# Available .CAM One-Word Domains (9,030)
+# Available .CAM One-Word Domains (9,033)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C033%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C030%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C033%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -14,9 +14,9 @@ Daily-updated dataset of available and resale .cam one-word domains from Unique 
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,033 rows · **Live catalog:** 9,030 domains
+**Public extract:** 9,033 rows · **Live catalog:** 9,033 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/cam`  
 **Best for:** founders, investors, studios
 
@@ -78,11 +78,11 @@ print(df.head())
 | good.cam         | premium   | $1,000    | $29.99        | 82             | 55     | 4      | name.com               |
 | gather.cam       | available | $22.98    | —             | 96             | 39     | 6      | namecheap              |
 | universal.cam    | resell    | —         | —             | 96             | 81     | 9      | Dynadot LLC            |
-| fast.cam         | premium   | $1,875    | $29.99        | 82             | 53     | 4      | name.com               |
-| shared.cam       | available | $22.98    | —             | 70             | 39     | 6      | namecheap              |
-| entrepreneur.cam | resell    | —         | —             | 78             | 80     | 12     | Porkbun, LLC           |
 | true.cam         | premium   | $1,875    | $29.99        | 86             | 52     | 4      | name.com               |
 | unify.cam        | available | $22.98    | —             | 72             | 38     | 5      | namecheap              |
+| entrepreneur.cam | resell    | —         | —             | 78             | 80     | 12     | Porkbun, LLC           |
+| fast.cam         | premium   | $1,875    | $29.99        | 82             | 52     | 4      | name.com               |
+| shared.cam       | available | $22.98    | —             | 70             | 37     | 6      | namecheap              |
 | march.cam        | resell    | —         | —             | 70             | 80     | 5      | Porkbun, LLC           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,033-row public sample | 9,030 live domains                               |
+| 9,033-row public sample | 9,033 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAM One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAM One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
