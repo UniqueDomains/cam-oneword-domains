@@ -1,10 +1,10 @@
-# Available .CAM One-Word Domains (11,766)
+# Available .CAM One-Word Domains (11,946)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C766%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C946%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .cam one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,766 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,946 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,766 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,946 domains
 
-**Last updated:** 2026-04-27  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/cam`  
 **Best for:** founders, investors, studios
 
@@ -66,23 +66,23 @@ print(df.head())
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
 | RedSox.cam   | available | $22.98    | —             | 72             | 60     | 7      | namecheap       |
 | matcha.cam   | resell    | —         | —             | 86             | 39     | 6      | Spaceship, Inc. |
-| cars.cam     | premium   | $1,875    | —             | 66             | 47     | 4      | name.com        |
-| prompts.cam  | available | $8.99     | $17.49        | 54             | 39     | 7      | namesilo        |
-| justin.cam   | resell    | —         | —             | 58             | 38     | 7      | Dynadot LLC     |
 | jobs.cam     | premium   | $1,875    | —             | 79             | 42     | 4      | name.com        |
 | letsgo.cam   | available | $22.98    | —             | 57             | 31     | 7      | namecheap       |
-| gems.cam     | resell    | —         | —             | 70             | 28     | 4      | Spaceship, Inc. |
+| justin.cam   | resell    | —         | —             | 58             | 38     | 7      | Dynadot LLC     |
 | Tools.cam    | premium   | $560      | $19.60        | 56             | 40     | 5      | namecheap       |
-| bae.cam      | available | $29.99    | —             | 70             | 30     | 3      | name.com        |
-| sites.cam    | resell    | —         | —             | 53             | 26     | 5      | Porkbun, LLC    |
-| WiFi.cam     | premium   | $2,100    | $19.60        | 83             | 37     | 5      | namecheap       |
 | quotes.cam   | available | $22.98    | —             | 58             | 29     | 6      | namecheap       |
-| reports.cam  | resell    | —         | —             | 58             | 24     | 7      | Spaceship, Inc. |
-| etc.cam      | premium   | $1,000    | —             | 58             | 34     | 3      | name.com        |
+| gems.cam     | resell    | —         | —             | 70             | 28     | 4      | Spaceship, Inc. |
+| WiFi.cam     | premium   | $2,100    | $19.60        | 83             | 37     | 5      | namecheap       |
 | brands.cam   | available | $22.98    | —             | 62             | 28     | 6      | namecheap       |
-| products.cam | resell    | —         | —             | 60             | 23     | 8      | Porkbun, LLC    |
-| William.cam  | premium   | $1,120    | $19.60        | 74             | 31     | 7      | namecheap       |
+| sites.cam    | resell    | —         | —             | 53             | 26     | 5      | Porkbun, LLC    |
+| etc.cam      | premium   | $1,000    | —             | 58             | 34     | 3      | name.com        |
 | systems.cam  | available | $22.98    | —             | 46             | 27     | 7      | namecheap       |
+| reports.cam  | resell    | —         | —             | 58             | 24     | 7      | Spaceship, Inc. |
+| William.cam  | premium   | $1,120    | $19.60        | 74             | 31     | 7      | namecheap       |
+| chem.cam     | available | $22.98    | —             | 74             | 24     | 4      | namecheap       |
+| products.cam | resell    | —         | —             | 60             | 23     | 8      | Porkbun, LLC    |
+| dogs.cam     | premium   | $1,875    | —             | 76             | 28     | 4      | name.com        |
+| comics.cam   | available | $22.98    | —             | 68             | 24     | 6      | namecheap       |
 | guns.cam     | resell    | —         | —             | 68             | 22     | 4      | Spaceship, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,766 live domains                              |
+| 1,000-row public sample | 11,946 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAM One-Word Domains*. Version 2026-04-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAM One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
