@@ -847,6 +847,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4dc3578b-ad6e-462c-b68d-4bbb104d4543,requires.cam,available,22.98,,58,4,8,namecheap,,
 4ddb3338-76fd-4acb-bb83-a0fc32c71bd2,sentiments.cam,available,22.98,,56,6,10,namecheap,,
 4de95bea-53f2-4bbf-92a8-fa7d75a527aa,enterthelists.cam,available,22.98,,62,0,15,namecheap,,
+4e2d772d-298c-47fa-9ae7-bddbf67cc3d1,transitions.cam,premium,,,56,15,11,,,
 4e433b7f-03ed-4977-b1ae-4350f440f73c,advantages.cam,available,22.98,,64,5,10,namecheap,,
 4e5748c8-1353-4a00-a65f-036b7443ecd6,promotes.cam,available,22.98,,56,2,8,namecheap,,
 4e71256c-daed-49fd-94ad-7fb2eb1ec31d,dogstail.cam,available,22.98,,94,1,8,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5c367f94-b73b-488e-baca-1a05fa5ae416,gomissing.cam,available,22.98,,70,1,10,namecheap,,
 5c3c51b0-b43a-4526-b4c8-6dbd69409200,pricetosell.cam,available,22.98,,64,1,13,namecheap,,
 5c407ed6-1d97-4729-9f85-8132765decd3,dowell.cam,available,22.98,,76,12,7,namecheap,,
-5c5c9f90-6d07-4920-802c-0618d41cfe8d,comerunning.cam,available,22.98,,74,1,12,namecheap,,
