@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cam one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 26,996 domains · **Median ask:** $238.32 · **High-demand under $2,500:** 43
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/cam`
 **Best for:** founders, investors, studios
 
@@ -67,11 +67,11 @@ print(df.head())
 | jot.cam   | available | $8.99     | $17.49        | high           | low    | 3      | namesilo                   |
 | agile.cam | resell    | $5,520    | $29.99        | high           | medium | 5      | Spaceship, Inc.            |
 | add.cam   | premium   | $854      | $16.52        | high           | low    | 3      | namesilo                   |
-| LLP.cam   | available | $8.99     | $17.49        | high           | low    | 3      | namesilo                   |
+| llp.cam   | available | $8.99     | $17.49        | high           | low    | 3      | namesilo                   |
 | city.cam  | resell    | —         | —             | high           | medium | 4      | Dynadot LLC                |
 | bce.cam   | premium   | $500      | —             | medium         | low    | 3      | name.com                   |
 | arid.cam  | available | $2.98     | $22.98        | low            | low    | 4      | namecheap                  |
-| firm.cam  | resell    | —         | —             | high           | low    | 4      | Dynadot LLC                |
+| firm.cam  | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc                |
 | dad.cam   | premium   | $1,875    | —             | high           | low    | 3      | name.com                   |
 | been.cam  | available | $8.99     | $17.49        | medium         | low    | 4      | namesilo                   |
 | loft.cam  | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.            |
@@ -83,7 +83,7 @@ print(df.head())
 | ride.cam  | resell    | —         | —             | high           | low    | 4      | Squarespace Domains II LLC |
 | ego.cam   | premium   | $1,875    | —             | medium         | low    | 3      | name.com                   |
 | fond.cam  | available | $8.99     | $17.49        | high           | low    | 4      | namesilo                   |
-| begin.cam | resell    | —         | —             | medium         | low    | 5      | Spaceship, Inc.            |
+| cloth.cam | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAM One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAM One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
