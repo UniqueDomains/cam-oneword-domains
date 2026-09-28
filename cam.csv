@@ -1,8 +1,8 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-78cdcff8-1098-4d9e-8702-216da4ab12b5,shiatsu.cam,available,8.99,17.49,high,low,7,namesilo,,,17/09/2026 05:40
+78cdcff8-1098-4d9e-8702-216da4ab12b5,shiatsu.cam,available,8.99,17.49,medium,low,7,namesilo,,,17/09/2026 05:40
 ab7a1cdf-1118-4513-a673-4396d628a2be,fur.cam,premium,512,16.52,high,low,3,namesilo,,,27/09/2026 04:05
 1c11da71-c2c3-4f79-acea-295756e73a9b,stress.cam,premium,1875,,high,low,6,name.com,,,
-7e6adcd5-b431-499b-92c2-a6d53957c4e2,frantic.cam,available,2.98,22.98,high,low,7,namecheap,,,18/08/2026 14:15
+7e6adcd5-b431-499b-92c2-a6d53957c4e2,frantic.cam,available,2.98,22.98,medium,low,7,namecheap,,,18/08/2026 14:15
 55207a3e-eaef-433a-b6e5-11a6ec31c93d,virginia.cam,premium,1040,18.2,high,low,8,namecheap,,,25/09/2026 09:38
 7d97052c-8192-4141-8e24-8042ab692936,arbitrarily.cam,available,22.98,,medium,low,11,namecheap,,,
 ec10f604-61c7-43af-b82f-88edcabdd7e7,starkest.cam,available,8.99,17.49,low,low,8,namesilo,,,20/09/2026 22:48
@@ -28,9 +28,9 @@ b0adee15-b2da-4a7d-8158-85f17f510ef9,knockout.cam,available,2.98,22.98,high,low,
 ec94f0ed-271b-4f3d-97d8-143309ba0842,branchy.cam,available,2.98,22.98,medium,low,7,namecheap,,,11/08/2026 02:23
 6d9ccebc-110b-4e4d-9548-f2376fb720e7,dinar.cam,available,2.98,22.98,high,low,5,namecheap,,,18/09/2026 07:02
 32d2e4fa-186b-410c-88d0-557e0f45b7ce,region.cam,available,8.99,17.49,high,low,6,namesilo,,,
-60b60d27-dfdf-4883-a69d-c9d737d3a80f,denise.cam,available,8.99,17.49,high,low,6,namesilo,,,25/09/2026 14:19
+60b60d27-dfdf-4883-a69d-c9d737d3a80f,denise.cam,available,8.99,17.49,medium,low,6,namesilo,,,25/09/2026 14:19
 5ec746a8-7d24-464e-b75c-281f606e34d7,divorcing.cam,available,8.99,17.49,low,low,9,namesilo,,,17/09/2026 22:37
-5e2b5a8d-7f3c-4b80-b699-9be5b3781275,rae.cam,premium,1995,16.52,high,low,3,namesilo,,,27/09/2026 01:43
+5e2b5a8d-7f3c-4b80-b699-9be5b3781275,rae.cam,premium,1995,16.52,medium,low,3,namesilo,,,27/09/2026 01:43
 fa8ae7b1-7520-4cb1-a284-36272b35e818,poverty.cam,available,8.99,17.49,medium,low,7,namesilo,,,
 59f7fa46-de48-4a31-927c-b3fae2500356,raiseable.cam,available,2.98,22.98,high,medium,9,namecheap,,,09/09/2026 09:52
 7ad03ec7-04c3-409f-837f-49d7e48cf34e,ague.cam,available,2.98,22.98,medium,low,4,namecheap,,,
@@ -43,12 +43,13 @@ fdf786e5-4e35-4a8e-8370-324b3a21451a,equine.cam,available,2.98,22.98,high,low,6,
 f7cf4899-9333-41c7-b3a5-fe159e22b00c,treachery.cam,available,8.99,17.49,medium,low,9,namesilo,,,23/09/2026 11:23
 fbaddc72-a218-4ce1-90ed-9828f1e88263,confirm.cam,available,8.99,17.49,high,low,7,namesilo,,,27/09/2026 05:57
 ef4a82f2-9ae7-4f9c-a1d1-823d2a8e6857,somatic.cam,available,2.98,22.98,high,low,7,namecheap,,,13/08/2026 01:56
-1c0d994e-2d67-4fef-8ae8-f805141a6a93,willie.cam,available,8.99,17.49,high,low,6,namesilo,,,25/09/2026 11:47
+1c0d994e-2d67-4fef-8ae8-f805141a6a93,willie.cam,available,8.99,17.49,medium,low,6,namesilo,,,25/09/2026 11:47
 a8964fcc-2050-4c12-9cd1-3d9bd49042c4,conscience.cam,available,8.99,17.49,high,low,10,namesilo,,,
 1142241a-d1d5-41f2-89aa-400a402a816f,artefact.cam,available,8.99,17.49,high,low,8,namesilo,,,20/09/2026 10:07
 4c9e8e06-b982-4549-8829-1bf2dfa54494,lutetium.cam,available,8.99,17.49,medium,low,8,namesilo,,,20/09/2026 23:39
+5d608f82-8ec4-4739-bc9f-0fb7a56852f7,injuries.cam,available,8.99,17.49,low,low,8,namesilo,,,27/09/2026 21:38
 19920e36-e6dd-4895-94b9-d700f0d5a62e,compound.cam,resell,,,high,low,8,"Spaceship, Inc.",15/11/2025 22:16,15/11/2026 23:59,26/09/2026 05:10
-0dfb1ee1-5df9-405c-aff5-ed0a47e996a2,embarrassing.cam,available,8.99,17.49,high,low,12,namesilo,,,27/09/2026 06:37
+0dfb1ee1-5df9-405c-aff5-ed0a47e996a2,embarrassing.cam,available,8.99,17.49,medium,low,12,namesilo,,,27/09/2026 06:37
 d98c1e41-44e0-4057-b1b1-37eb6e78818f,spoof.cam,available,8.99,17.49,high,low,5,namesilo,,,23/09/2026 11:26
 7153e098-0d22-4b72-905b-8f1035dc3758,unfortunately.cam,available,8.99,17.49,medium,low,13,namesilo,,,
 4ec6010a-641d-49a9-aef9-9316575107f6,rumanian.cam,available,2.98,22.98,high,medium,8,namecheap,,,09/09/2026 18:28
@@ -63,7 +64,7 @@ c482beed-c5f8-4228-9cb0-ca1a02c5409a,asuncion.cam,available,2.98,22.98,high,low,
 a2b65117-4a3f-473a-9056-a8b29a14cd61,hexed.cam,available,2.98,22.98,medium,low,5,namecheap,,,21/08/2026 07:51
 0c9be7b6-e3f7-4e6e-bf54-5d0441a28a2b,arabic.cam,premium,854,16.52,high,low,6,namesilo,,,22/09/2026 07:33
 b388f1ce-c819-4c30-a79d-2b8f26cc9bd3,gradually.cam,available,2.98,22.98,high,low,9,namecheap,,,14/09/2026 22:00
-463f4cd5-45f7-4e73-9d10-15a17e503fd7,ventolin.cam,available,8.99,17.49,high,low,8,namesilo,,,18/09/2026 03:33
+463f4cd5-45f7-4e73-9d10-15a17e503fd7,ventolin.cam,available,8.99,17.49,medium,low,8,namesilo,,,18/09/2026 03:33
 891f09db-6c42-4fe2-ad14-473cf44a89b4,serb.cam,available,2.98,22.98,high,low,4,namecheap,,,10/09/2026 04:35
 49fe2feb-82cc-4fab-80d3-3658499b4dd8,lingually.cam,available,2.98,22.98,medium,low,9,namecheap,,,15/09/2026 12:28
 e791e522-d64f-4e15-8990-80a0c2ae17e7,unitarian.cam,available,2.98,22.98,high,low,9,namecheap,,,12/09/2026 13:56
@@ -72,7 +73,8 @@ f34751df-5b83-421f-8b64-fb85ecbaeb5e,thb.cam,premium,500,29.99,high,low,3,name.c
 071bcafd-aac8-4e9c-96f1-19f88426d12c,condiment.cam,available,8.99,17.49,high,low,9,namesilo,,,
 68d91c78-edcc-4b38-8e95-83734cfa1c80,haunted.cam,available,2.98,22.98,high,low,7,namecheap,,,21/08/2026 01:31
 e40d8c98-8b4c-4d84-bb14-8bf42fdbb43c,icon.cam,premium,500,,high,medium,4,name.com,,,
-0ed8b50a-bbc2-4a58-9497-f9f8fd4043b0,stepaside.cam,available,2.98,22.98,high,low,10,namecheap,,,16/09/2026 15:09
+0ed8b50a-bbc2-4a58-9497-f9f8fd4043b0,stepaside.cam,available,2.98,22.98,medium,low,10,namecheap,,,16/09/2026 15:09
+43de52f4-d4f6-40c9-97e7-24e9e8a05687,spencer.cam,available,1.7,14.69,high,low,7,spaceship,,,27/09/2026 14:02
 faced612-c5e0-4375-9405-1b4cc24e0875,aramus.cam,available,8.99,17.49,medium,low,6,namesilo,,,19/09/2026 23:57
 06b93db5-9328-4f20-bb0e-08c9533921ab,decayable.cam,available,2.98,22.98,low,low,9,namecheap,,,13/08/2026 20:54
 3e618c45-adac-4189-b51b-e8b1c1913a17,maudlin.cam,available,2.98,22.98,medium,low,7,namecheap,,,09/08/2026 00:42
@@ -100,9 +102,9 @@ da93b14a-f572-4583-b47d-e38ee6aff006,fondly.cam,available,2.98,22.98,high,low,6,
 2cbbf512-64d9-40bd-a300-1fe3b1ed9a0c,wednesday.cam,available,2.98,22.98,high,low,9,namecheap,,,13/09/2026 09:32
 de5edda3-0031-4f5e-859c-e654ccf690e7,ditto.cam,available,2.98,22.98,high,low,5,namecheap,,,24/09/2026 23:16
 1ccf6646-249f-4cfb-947e-f2d99dc6b1ec,aldebaran.cam,available,8.99,17.49,medium,low,9,namesilo,,,18/09/2026 04:20
-feaa06c7-f635-408f-aa95-e9b6cf50249b,reverting.cam,available,2.98,22.98,high,low,9,namecheap,,,09/09/2026 15:58
+feaa06c7-f635-408f-aa95-e9b6cf50249b,reverting.cam,available,2.98,22.98,medium,low,9,namecheap,,,09/09/2026 15:58
 fa413fba-b482-40d6-92df-bd56ebf0d426,thought.cam,available,8.99,17.49,high,low,7,namesilo,,,
-3385f25e-455d-4692-99bc-0a01731ef121,pros.cam,available,8.99,17.49,high,low,4,namesilo,,,20/09/2026 10:26
+3385f25e-455d-4692-99bc-0a01731ef121,pros.cam,available,8.99,17.49,medium,low,4,namesilo,,,20/09/2026 10:26
 89224706-46aa-4af3-a7e2-d1e8f89b9172,unowned.cam,available,2.98,22.98,medium,low,7,namecheap,,,04/09/2026 22:16
 683107b6-0ee7-4f36-9acd-8ca6ad219e88,bulb.cam,premium,500,,high,low,4,name.com,,,
 1234f4e7-d139-40b8-bcfc-48f605b5bdba,appears.cam,available,2.98,22.98,medium,low,7,namecheap,,,25/09/2026 20:18
@@ -116,7 +118,7 @@ ea67e06a-1081-43a6-b30c-878cac0912eb,burnside.cam,available,8.99,17.49,high,low,
 76a33f19-7220-434d-bf65-b855864ae5d5,veinal.cam,available,2.98,22.98,low,low,6,namecheap,,,13/09/2026 01:51
 8eb51386-eabd-42da-9f26-6293b0cb561c,gruff.cam,available,2.98,22.98,high,low,5,namecheap,,,13/08/2026 11:25
 7bf1ba96-f245-4a6a-880e-fa8ee2bf4911,swingeing.cam,available,2.98,22.98,medium,low,9,namecheap,,,11/09/2026 05:48
-3f1f1055-3476-47a6-8dcd-a2b5bb8c04b0,shutting.cam,available,2.98,22.98,high,low,8,namecheap,,,12/08/2026 12:22
+3f1f1055-3476-47a6-8dcd-a2b5bb8c04b0,shutting.cam,available,2.98,22.98,medium,low,8,namecheap,,,12/08/2026 12:22
 f42977c5-836c-491d-941e-32c65e0290ed,unseeded.cam,available,2.98,22.98,medium,low,8,namecheap,,,12/09/2026 19:10
 fd3644b6-f81f-44db-bb4f-ecf597f7ce63,outlander.cam,available,2.98,22.98,medium,low,9,namecheap,,,
 cfd4b551-90ea-4ae0-a1bc-0ccef808c137,wavelike.cam,available,2.98,22.98,medium,low,8,namecheap,,,13/08/2026 06:56
@@ -157,7 +159,8 @@ a18232a7-adcb-4e77-a0f5-47f5ed1c022d,thumb.cam,premium,512,16.52,high,low,5,name
 58681057-3094-4ba4-a829-1aaba4e031c8,mood.cam,premium,500,,high,low,4,name.com,,,
 39974fec-5ecc-43b3-aa23-4a3e02dd03bc,molecular.cam,available,2.98,22.98,high,low,9,namecheap,,,25/08/2026 03:53
 901371d3-c32b-42f2-b0ea-fa8a91c72cd8,subsets.cam,available,8.99,17.49,medium,low,7,namesilo,,,21/09/2026 01:05
-ca154458-a07d-4e7e-b2c5-5609e3b55d28,formulary.cam,available,2.98,22.98,high,low,9,namecheap,,,18/08/2026 12:20
+ca154458-a07d-4e7e-b2c5-5609e3b55d28,formulary.cam,available,2.98,22.98,medium,low,9,namecheap,,,18/08/2026 12:20
+0152e57d-0f92-402f-9b24-6669ce7f4a91,invasion.cam,available,8.99,17.49,high,low,8,namesilo,,,27/09/2026 13:26
 bf4bf456-e5ea-49fa-9d67-147710a6be56,buttercups.cam,available,29.99,29.99,medium,low,10,name.com,,,20/09/2026 19:49
 249a6af2-68ac-42c7-8d89-7446324fd816,ventured.cam,available,8.99,17.49,medium,low,8,namesilo,,,25/09/2026 06:03
 ee6515cb-232f-4363-bb70-92ff52714582,tablespoons.cam,available,8.99,17.49,medium,low,11,namesilo,,,20/09/2026 10:16
@@ -169,7 +172,7 @@ b32569ef-26c0-49ba-9820-ded0e238243a,nets.cam,premium,520,18.2,high,high,4,namec
 4ceed6ee-3b8d-467f-99f8-5b197f35f0c9,tokyo.cam,premium,1995,16.52,high,low,5,namesilo,,,24/09/2026 12:18
 346d40f1-db0c-4bfd-b2ec-39e2a6cf4e0d,bartender.cam,available,8.99,17.49,high,low,9,namesilo,,,22/09/2026 06:18
 c0ed094b-9b5b-4369-b01d-91db5b3515a9,yarrow.cam,available,8.99,17.49,medium,low,6,namesilo,,,17/09/2026 00:36
-b1dc56f6-8433-4694-8f8d-3275a09d70c6,weirdness.cam,available,8.99,17.49,high,low,9,namesilo,,,23/09/2026 23:18
+b1dc56f6-8433-4694-8f8d-3275a09d70c6,weirdness.cam,available,8.99,17.49,medium,low,9,namesilo,,,23/09/2026 23:18
 4cbf9040-423f-463b-9ede-a6950c6a5996,alizarin.cam,available,8.99,17.49,medium,low,8,namesilo,,,18/09/2026 08:12
 535a6949-6021-4648-9bdd-d24e95abe630,bierce.cam,available,8.99,17.49,medium,low,6,namesilo,,,18/09/2026 17:23
 bdfe0586-8ec2-4921-86cf-9c5c558720d7,abramis.cam,available,8.99,17.49,medium,low,7,namesilo,,,16/09/2026 16:53
@@ -181,20 +184,23 @@ afdbed31-7af4-4c37-a686-533bc0f5980d,eatable.cam,available,2.98,22.98,medium,low
 252c9002-335d-4f12-9ab2-cf67f0bdb573,sourly.cam,available,8.99,17.49,low,low,6,namesilo,,,16/09/2026 05:40
 e3420e9e-dc08-4549-9cd5-ec47ecd1e1c6,argun.cam,available,2.98,22.98,medium,low,5,namecheap,,,20/09/2026 04:51
 38ab5524-a4b2-43cc-bf2a-ed8aec2d1b93,participle.cam,available,2.98,22.98,medium,low,10,namecheap,,,08/09/2026 02:05
+86732f35-7f44-43d7-978b-deba6b64b451,andover.cam,available,1.7,14.69,medium,low,7,spaceship,,,27/09/2026 18:38
 8d5c3617-42e3-4f41-8ffb-23e5470dd7ec,decayed.cam,available,2.98,22.98,medium,low,7,namecheap,,,13/08/2026 20:59
 09c9807f-9662-4643-9ea8-c780911dd869,keenly.cam,available,2.98,22.98,high,low,6,namecheap,,,15/09/2026 10:20
 9898a269-6131-4015-87c5-ac8a7c71d1a8,taunt.cam,available,2.98,22.98,medium,low,5,namecheap,,,11/09/2026 09:13
+28021045-adaf-4ee1-93ce-a34da918949d,winthrop.cam,available,7.72,14.93,high,low,8,porkbun,,,27/09/2026 19:50
 5971a058-98e5-494b-93ba-ad9230d18517,asserted.cam,available,2.98,22.98,medium,low,8,namecheap,,,07/08/2026 05:54
 7dca76cc-f3f9-4cec-a333-85a002a40516,etch.cam,available,8.99,17.49,high,low,4,namesilo,,,
 9438c124-5369-4268-9fcb-671212767bda,explanations.cam,available,8.99,17.49,medium,low,12,namesilo,,,17/09/2026 10:05
 04f80445-8a7a-48ac-b20f-418e1a737036,snide.cam,available,2.98,22.98,high,medium,5,namecheap,,,10/09/2026 12:33
 f90251c3-2124-4444-b08b-a1d7640b9fb8,reverie.cam,available,2.98,22.98,high,low,7,namecheap,,,17/09/2026 21:59
 48b2b7f2-3f2b-409b-8102-bb0c0f3e776e,cocker.cam,available,8.99,17.49,medium,low,6,namesilo,,,21/09/2026 13:01
+d0db3518-4931-4cba-9ed0-e1d006b5fb69,colony.cam,resell,,,high,low,6,,,,27/09/2026 12:41
 0085a89b-14f0-406e-95ba-ed8bdf1b9d99,rusted.cam,available,2.98,22.98,medium,low,6,namecheap,,,09/09/2026 20:17
 77d5be59-1347-48e9-bc39-96c62c48876a,musty.cam,available,2.98,22.98,medium,low,5,namecheap,,,18/08/2026 16:44
-7aed2395-76b3-4b36-a13e-2a072569b642,plausibly.cam,available,2.98,22.98,high,low,9,namecheap,,,14/09/2026 09:28
+7aed2395-76b3-4b36-a13e-2a072569b642,plausibly.cam,available,2.98,22.98,medium,low,9,namecheap,,,14/09/2026 09:28
 3e9c0214-84eb-4fca-b09a-310d4a82c464,audition.cam,resell,,,high,low,8,"Spaceship, Inc.",15/11/2025 22:29,15/11/2026 23:59,26/09/2026 04:08
-ea6c1123-d826-460c-a8b6-6cc524959da0,disuse.cam,available,8.99,17.49,high,low,6,namesilo,,,24/09/2026 23:14
+ea6c1123-d826-460c-a8b6-6cc524959da0,disuse.cam,available,8.99,17.49,medium,low,6,namesilo,,,24/09/2026 23:14
 31fb6abb-7931-450e-b351-64b10036d900,saws.cam,available,8.99,17.49,medium,low,4,namesilo,,,20/09/2026 09:02
 2438e8a9-ce96-4d27-af42-3469ee1e2ac7,effete.cam,available,2.98,22.98,medium,low,6,namecheap,,,13/08/2026 20:52
 9e6cd381-a29a-476e-8440-e28630b1e8ef,heartfelt.cam,available,2.98,22.98,high,low,9,namecheap,,,21/08/2026 02:11
@@ -213,7 +219,7 @@ c8009aa0-1871-41bc-be30-3771363c113d,homophonic.cam,available,2.98,22.98,medium,
 89820870-f521-4c08-b549-8b9527784eea,beigel.cam,available,2.98,22.98,high,low,6,namecheap,,,21/09/2026 17:54
 afb32a7d-9dfb-47ab-b78c-7911f64e2674,ravenous.cam,available,2.98,22.98,medium,low,8,namecheap,,,15/08/2026 06:13
 257bf26c-f962-44eb-9096-7a7f525467ea,topping.cam,available,2.98,22.98,high,low,7,namecheap,,,11/09/2026 17:36
-bb734da2-54fe-44f9-8421-f4129a18d0fb,hieroglyph.cam,available,2.98,22.98,high,low,10,namecheap,,,21/08/2026 08:33
+bb734da2-54fe-44f9-8421-f4129a18d0fb,hieroglyph.cam,available,2.98,22.98,medium,low,10,namecheap,,,21/08/2026 08:33
 eee634ae-0a15-44c1-a8ad-72c494f6b842,chairs.cam,available,2.98,22.98,medium,low,6,namecheap,,,17/09/2026 18:32
 fc685f43-c5f3-42d0-9aa6-03979b3cfeba,claptrap.cam,available,8.99,17.49,medium,low,8,namesilo,,,24/09/2026 03:39
 77ac9cb4-4f22-4ccb-95c7-de0f321848e4,appropriately.cam,available,8.99,17.49,medium,low,13,namesilo,,,
@@ -221,7 +227,7 @@ bf303d39-727d-47ab-aa2b-e1ce481b8e83,myoid.cam,available,2.98,22.98,low,low,5,na
 76c0439b-e73c-4794-966a-fbd8a41e7863,jumpy.cam,available,2.98,22.98,medium,low,5,namecheap,,,11/08/2026 09:53
 cdda0a68-bded-4741-8b91-5c628fc4fbc6,cationic.cam,available,2.98,22.98,medium,low,8,namecheap,,,11/08/2026 22:07
 7de9bdf9-4b33-41af-ba32-15027b7746ac,chart.cam,premium,1875,,high,low,5,name.com,,,
-2ff3ba66-bfba-4a09-b5f1-73fdbe499aaf,zoologist.cam,available,8.99,17.49,high,low,9,namesilo,,,19/09/2026 08:43
+2ff3ba66-bfba-4a09-b5f1-73fdbe499aaf,zoologist.cam,available,8.99,17.49,medium,low,9,namesilo,,,19/09/2026 08:43
 162e0c10-2d8f-4a75-b9ee-b60a35d3c9c7,blithe.cam,available,2.98,22.98,high,low,6,namecheap,,,10/08/2026 14:37
 f032c08f-27f1-4a99-8ac7-1ccf0872b354,salvadoran.cam,available,2.98,22.98,high,medium,10,namecheap,,,09/09/2026 21:01
 9b592c73-0fd5-40c1-a50b-8fbdfbdc1c1a,tending.cam,available,2.98,22.98,high,low,7,namecheap,,,11/09/2026 11:15
@@ -233,7 +239,7 @@ ae5f4a3b-d936-4fbc-a503-ddbeb5df5719,cohen.cam,available,8.99,17.49,high,low,5,n
 535d81b7-5476-4d2d-9cd6-0645ce261cc0,redemption.cam,available,8.99,17.49,high,low,10,namesilo,,,
 5a315f22-6839-45c3-bee3-10f1ffc95bdc,dehydrate.cam,available,2.98,22.98,medium,low,9,namecheap,,,14/08/2026 03:38
 b85d1cde-5f98-4a5c-b92f-84409159b3b1,night.cam,premium,854,16.52,high,low,5,namesilo,,,
-27e105c6-a3be-4631-9112-51821f838051,parvati.cam,available,2.98,22.98,high,low,7,namecheap,,,19/09/2026 02:21
+27e105c6-a3be-4631-9112-51821f838051,parvati.cam,available,2.98,22.98,medium,low,7,namecheap,,,19/09/2026 02:21
 246b65e4-f18f-4993-8bf9-740f166ae4c3,collar.cam,available,8.99,17.49,high,low,6,namesilo,,,20/09/2026 09:02
 3701fbe3-8641-4c66-bb79-e3c5722b3fd5,moire.cam,available,2.98,22.98,medium,low,5,namecheap,,,25/08/2026 03:26
 add8290a-a779-4a47-b87c-b4883ad19fce,offended.cam,available,2.98,22.98,medium,low,8,namecheap,,,04/09/2026 01:24
@@ -246,19 +252,20 @@ f6467831-794c-483d-8518-e6a1d6a1b4b5,sloe.cam,available,2.98,22.98,medium,low,4,
 dd513736-0043-4b6f-be51-11a4a4352e8f,walkabout.cam,available,8.99,17.49,high,low,10,namesilo,,,
 2670056d-e11f-434f-8dfb-6c94e2d3d4a5,advent.cam,available,8.99,17.49,high,low,6,namesilo,,,17/09/2026 10:31
 c40e107d-b0c6-448c-9627-00bdbe4becfc,reduced.cam,available,2.98,22.98,medium,low,7,namecheap,,,13/08/2026 22:10
-7107ca41-13c1-4885-a8fd-b72cef8b8306,skirting.cam,available,8.99,17.49,high,low,8,namesilo,,,20/09/2026 08:31
-99fd17c6-7943-49c3-9560-381fd2460000,excitedly.cam,available,2.98,22.98,high,low,9,namecheap,,,14/09/2026 16:52
+7107ca41-13c1-4885-a8fd-b72cef8b8306,skirting.cam,available,8.99,17.49,medium,low,8,namesilo,,,20/09/2026 08:31
+99fd17c6-7943-49c3-9560-381fd2460000,excitedly.cam,available,2.98,22.98,medium,low,9,namecheap,,,14/09/2026 16:52
 9620bd5f-9836-4544-948a-7939b19bd2fb,lasting.cam,available,8.99,17.49,high,low,7,namesilo,,,24/09/2026 12:31
 a0f61e18-1c0a-4c25-9b65-9c45d09a91ab,aphesis.cam,available,8.99,17.49,medium,low,7,namesilo,,,19/09/2026 16:55
 e962e8c1-7c2f-404f-bbea-0e2fdc12865b,vegan.cam,premium,854,16.52,high,medium,5,namesilo,,,
-64f4d350-b7fe-4639-98eb-a26f7bf2362e,rightfully.cam,available,2.98,22.98,high,low,10,namecheap,,,15/09/2026 23:44
+64f4d350-b7fe-4639-98eb-a26f7bf2362e,rightfully.cam,available,2.98,22.98,medium,low,10,namecheap,,,15/09/2026 23:44
 893bd0c4-24a1-4fc2-a510-2af77ad13faf,intertidal.cam,available,2.98,22.98,high,low,10,namecheap,,,22/08/2026 08:21
 44d54e9f-7765-4af1-be6c-76e2a8709fd4,strawberry.cam,resell,,,high,low,10,Dynadot Inc,06/07/2026 00:01,06/07/2027 23:59,26/09/2026 09:20
+a85d8f53-f082-4e51-becf-2cf053a12e9f,cbc.cam,premium,414.2,14.69,high,low,3,spaceship,,,28/09/2026 00:59
 a0129f3f-4ed8-4c4e-ac69-25438dad1594,metacarpal.cam,available,2.98,22.98,medium,low,10,namecheap,,,24/08/2026 21:30
 bce634bb-70a0-4041-af2d-963192f41a90,sayonara.cam,available,8.99,17.49,high,low,8,namesilo,,,17/09/2026 08:15
 f500f241-10e4-4f00-9cca-ec972162c5d2,theory.cam,premium,512,16.52,high,low,6,namesilo,,,25/09/2026 04:33
 72ae060e-b048-4151-9c5d-c623aeac6224,busily.cam,available,2.98,22.98,medium,low,6,namecheap,,,14/09/2026 01:53
-45d54594-da5b-4b00-89fe-0342e8916d46,matured.cam,available,2.98,22.98,high,low,7,namecheap,,,18/08/2026 17:58
+45d54594-da5b-4b00-89fe-0342e8916d46,matured.cam,available,2.98,22.98,medium,low,7,namecheap,,,18/08/2026 17:58
 00c712a1-5f02-4412-bcff-aa29def05107,arava.cam,available,8.99,17.49,medium,low,5,namesilo,,,20/09/2026 00:28
 c08254b1-327d-4186-9144-bb0a56532bc6,iodine.cam,available,2.98,22.98,high,low,6,namecheap,,,21/08/2026 17:24
 eb4f8d23-8832-460e-8b2a-bf315a4e2710,bonkers.cam,available,2.98,22.98,medium,low,7,namecheap,,,06/08/2026 20:40
@@ -272,11 +279,12 @@ eb4f8d23-8832-460e-8b2a-bf315a4e2710,bonkers.cam,available,2.98,22.98,medium,low
 e228a536-727e-4db6-8b2a-19d2025b4626,banging.cam,available,2.98,22.98,high,low,7,namecheap,,,08/08/2026 13:03
 f065685e-7cb3-4551-9f2a-b044e96d66e3,heavily.cam,available,2.98,22.98,medium,low,7,namecheap,,,21/08/2026 05:28
 aa7d3191-2022-42ab-b421-ef28c886e570,somali.cam,available,2.98,22.98,high,low,6,namecheap,,,10/09/2026 13:58
+cb1f307e-5da9-4791-8103-e8c50385aa26,gut.cam,premium,414.2,14.69,high,low,3,spaceship,,,28/09/2026 01:05
 8ef8691a-163d-495e-9402-bae9efe63bd0,savagery.cam,available,8.99,17.49,medium,low,8,namesilo,,,22/09/2026 04:29
 0bb1c00f-8139-4c9a-8c30-d10c20da7cf0,montgomery.cam,available,8.99,17.49,high,low,10,namesilo,,,16/09/2026 12:22
 232616a0-b481-4701-a4f3-6f82f0061566,paraguayan.cam,available,2.98,22.98,medium,low,10,namecheap,,,08/09/2026 00:55
 8ea5ee16-251e-4718-9053-91708191268c,posed.cam,available,2.98,22.98,high,low,5,namecheap,,,09/09/2026 00:04
-2d4ef39e-9aab-4fb4-a67c-5799ba0f96ea,manic.cam,available,2.98,22.98,high,low,5,namecheap,,,18/08/2026 15:04
+2d4ef39e-9aab-4fb4-a67c-5799ba0f96ea,manic.cam,available,2.98,22.98,medium,low,5,namecheap,,,18/08/2026 15:04
 fcf1e075-b7c2-4da7-9f8c-05cab2692176,moderately.cam,available,8.99,17.49,medium,low,10,namesilo,,,25/09/2026 12:00
 a6a2eee4-b577-4a6a-aed0-cb746c6a6a64,arcadian.cam,available,2.98,22.98,high,low,8,namecheap,,,06/08/2026 14:10
 273a7673-bc36-42e3-a7e1-18a0414cf64d,melodious.cam,available,2.98,22.98,high,low,9,namecheap,,,24/08/2026 19:38
@@ -290,7 +298,7 @@ cba9cbde-600a-4517-b6bd-9ef851da113a,whipping.cam,available,2.98,22.98,medium,lo
 7908420c-f384-416e-a59b-32d2a34b324d,ano.cam,premium,520,18.2,high,low,3,namecheap,,,16/09/2026 18:45
 38b56c99-c6fc-448a-8822-c0ea13d29352,martha.cam,available,8.99,17.49,high,low,6,namesilo,,,
 71b7db6c-64a4-44f5-b215-f28797a4ee96,halting.cam,available,2.98,22.98,medium,low,7,namecheap,,,13/08/2026 07:02
-7b0d802c-7eb3-4690-b381-69e6891745d6,alexanders.cam,available,8.99,17.49,high,low,10,namesilo,,,18/09/2026 05:47
+7b0d802c-7eb3-4690-b381-69e6891745d6,alexanders.cam,available,8.99,17.49,medium,low,10,namesilo,,,18/09/2026 05:47
 026b6386-178e-4bea-b7e9-f46a83a7fd16,trigger.cam,available,8.99,17.49,high,low,7,namesilo,,,25/09/2026 06:46
 1e42e979-2b1d-4ecd-bd25-6c38d1c30c33,convert.cam,resell,,,high,low,7,Porkbun LLC,08/01/2024 12:38,08/01/2027 23:59,26/09/2026 05:14
 be00d476-6107-469c-b00b-782f671ca4e1,mildness.cam,available,8.99,17.49,high,low,8,namesilo,,,24/09/2026 15:30
@@ -328,9 +336,10 @@ dc3a457e-26dc-4565-9115-971bdcf690f8,inwards.cam,available,2.98,22.98,high,low,7
 2f1c63e7-382a-4903-b809-d60c56baacfb,albino.cam,available,8.99,17.49,high,low,6,namesilo,,,18/09/2026 02:58
 3bef7d8f-b0cb-472a-b572-8ce7d19efdf3,sizable.cam,available,2.98,22.98,high,low,7,namecheap,,,20/08/2026 16:38
 1080f38b-4184-4a83-9da2-a5052e4fbab1,gaol.cam,available,2.98,22.98,medium,low,4,namecheap,,,08/09/2026 22:46
-0e03e252-dc7f-44b1-b202-7853e1ccbf83,overage.cam,available,2.98,22.98,high,low,7,namecheap,,,04/09/2026 19:59
+0e03e252-dc7f-44b1-b202-7853e1ccbf83,overage.cam,available,2.98,22.98,medium,low,7,namecheap,,,04/09/2026 19:59
 227e31a5-095b-49a8-98f4-3d7d43467407,senescence.cam,available,8.99,17.49,medium,low,10,namesilo,,,17/09/2026 16:52
 fa4754b3-de5d-41bb-927e-b281194fd95d,borrow.cam,available,8.99,17.49,high,low,6,namesilo,,,
+9c388f1d-6826-4165-a7f9-fc556b8c271d,loses.cam,available,8.99,17.49,medium,low,5,namesilo,,,27/09/2026 11:07
 b71d86e7-fcb1-47d6-b7e2-076f76bd934d,anile.cam,available,2.98,22.98,medium,low,5,namecheap,,,
 2a47eea3-a19f-465d-8d69-f88572089002,friar.cam,available,2.98,22.98,medium,low,5,namecheap,,,24/08/2026 20:10
 1ab767f9-c1ed-41c6-b869-3ac38455e13b,draining.cam,available,2.98,22.98,medium,low,8,namecheap,,,14/08/2026 18:19
@@ -339,12 +348,13 @@ d8eeb508-b9fb-47d3-80ee-17ae0eb4d327,batfish.cam,available,29.99,29.99,medium,lo
 7abd4adb-20bd-4812-8884-ad335b00920e,unloved.cam,available,2.98,22.98,medium,low,7,namecheap,,,12/09/2026 15:10
 858c30cf-59ac-4c17-b4f9-a4989103de24,hep.cam,premium,500,29.99,high,low,3,name.com,,,21/08/2026 06:44
 041a719f-48af-4d22-8663-28550be7485f,tannic.cam,available,2.98,22.98,medium,low,6,namecheap,,,11/09/2026 08:01
+64517285-5c08-4fae-9659-bb318a98af1d,eps.cam,premium,414.2,14.69,high,low,3,spaceship,,,27/09/2026 19:02
 2a3c46fc-52b4-42e8-8b52-a769a748a2af,deflection.cam,available,2.98,22.98,high,low,10,namecheap,,,24/09/2026 21:20
 9e1e1126-f0d4-4df2-aff9-50aa953b932c,aggressive.cam,available,8.99,17.49,high,low,10,namesilo,,,21/09/2026 22:59
 63534a55-4579-4b6b-95b0-e54bd2563b86,practicality.cam,available,8.99,17.49,high,low,12,namesilo,,,16/09/2026 09:33
 93cf7812-9554-4821-bf15-12a8b6e0e774,brutality.cam,available,8.99,17.49,medium,low,9,namesilo,,,22/09/2026 04:26
 852a2577-b2b5-461e-ac53-3792952ff95e,barbecued.cam,available,2.98,22.98,medium,low,9,namecheap,,,08/08/2026 16:25
-d1355c9b-04ac-4b7f-95fe-92b08bd50245,sleeved.cam,available,2.98,22.98,high,low,7,namecheap,,,10/09/2026 10:43
+d1355c9b-04ac-4b7f-95fe-92b08bd50245,sleeved.cam,available,2.98,22.98,medium,low,7,namecheap,,,10/09/2026 10:43
 e6f6466b-44d7-4fee-bc7e-9201303d0794,segregated.cam,available,2.98,22.98,medium,low,10,namecheap,,,10/09/2026 01:51
 fb4c6dd5-6ee1-46f4-8058-8df28ff71756,managerial.cam,available,2.98,22.98,high,low,10,namecheap,,,24/08/2026 14:32
 4d492387-8d4a-42bb-b69f-f79333c119ae,capsulate.cam,available,2.98,22.98,medium,low,9,namecheap,,,11/08/2026 18:10
@@ -355,7 +365,7 @@ c4b0e6f0-477d-4f94-9f58-016321dc8ce5,terminators.cam,available,2.98,22.98,low,lo
 3148dd11-815d-4e50-85ec-5d14b44473fd,barcelona.cam,available,8.99,17.49,high,low,9,namesilo,,,22/09/2026 05:08
 a977edba-8715-403c-9ec2-cdf2665d791e,unipolar.cam,available,2.98,22.98,medium,low,8,namecheap,,,12/09/2026 13:46
 1ec7b9d3-dedb-46ce-9029-7566a8f12e0b,gastropod.cam,available,2.98,22.98,medium,low,9,namecheap,,,12/09/2026 14:04
-20ef4277-208a-406a-9230-d711dafbae25,animist.cam,available,2.98,22.98,high,low,7,namecheap,,,
+20ef4277-208a-406a-9230-d711dafbae25,animist.cam,available,2.98,22.98,medium,low,7,namecheap,,,
 b947c121-5edb-4366-957d-9768255cc2ff,terminating.cam,available,2.98,22.98,medium,low,11,namecheap,,,08/09/2026 14:51
 6b05cb7f-18cb-4196-ab28-ea477798c248,finally.cam,available,8.99,17.49,high,low,7,namesilo,,,
 768d4419-6ed6-4c78-99b7-9c11c1e91d95,steer.cam,available,8.99,17.49,high,low,5,namesilo,,,
@@ -363,8 +373,8 @@ b947c121-5edb-4366-957d-9768255cc2ff,terminating.cam,available,2.98,22.98,medium
 b01b7fbb-8434-46d6-acf1-8f5c7571d922,physic.cam,available,2.98,22.98,high,low,6,namecheap,,,05/08/2026 22:25
 0d46f499-c948-4db8-a083-00cb6426dc16,captive.cam,available,2.98,22.98,high,low,7,namecheap,,,
 a74c4f3d-d973-483f-9b1c-b6dbe56407f1,pierre.cam,premium,512,16.52,high,low,6,namesilo,,,24/09/2026 12:24
-46f240f1-cb34-4fc1-a32b-d95fd51e44ea,arrested.cam,available,2.98,22.98,high,low,8,namecheap,,,17/09/2026 20:22
-48df0759-c141-47b3-a682-5a61e66beeb5,blatant.cam,available,2.98,22.98,high,low,7,namecheap,,,10/08/2026 13:31
+46f240f1-cb34-4fc1-a32b-d95fd51e44ea,arrested.cam,available,2.98,22.98,medium,low,8,namecheap,,,17/09/2026 20:22
+48df0759-c141-47b3-a682-5a61e66beeb5,blatant.cam,available,2.98,22.98,medium,low,7,namecheap,,,10/08/2026 13:31
 5135138e-6547-4c89-97f5-47177713b2c9,lied.cam,available,8.99,17.49,high,low,4,namesilo,,,25/09/2026 08:58
 69b9deef-9855-4517-b550-276f8d2d9a3d,dietetic.cam,available,2.98,22.98,medium,low,8,namecheap,,,14/08/2026 06:56
 3359c1e2-27f4-4878-bc09-3d32b3a37f43,front.cam,premium,854,16.52,high,low,5,namesilo,,,24/09/2026 21:48
@@ -416,11 +426,12 @@ b8300415-8d54-4530-b1fe-2e5db6db9d67,apocalypse.cam,available,2.98,22.98,medium,
 ddef964a-a3a2-4f25-8134-07fb49702519,piping.cam,available,2.98,22.98,medium,low,6,namecheap,,,10/09/2026 19:43
 1fe09583-31cc-402d-ab97-420377c63397,sweet.cam,premium,1040,18.2,high,low,5,namecheap,,,25/09/2026 22:43
 68dcc68d-da25-4367-9ad0-6900ee49178a,scared.cam,available,2.98,22.98,medium,low,6,namecheap,,,18/08/2026 15:38
+2d98c1af-fe78-4e2e-a83f-c28a55220d3e,hai.cam,premium,414.2,14.69,high,low,3,spaceship,,,27/09/2026 16:50
 d4e31e99-3371-449b-b7cf-2ef2a942176f,outdated.cam,available,8.99,17.49,medium,low,8,namesilo,,,26/09/2026 03:15
 693a52b6-f035-44be-a27f-78531f8c88c4,huddled.cam,available,2.98,22.98,medium,low,7,namecheap,,,21/08/2026 14:34
-d54511fd-b710-4e52-8df8-805fdc034d8a,asterism.cam,available,8.99,17.49,high,low,8,namesilo,,,20/09/2026 17:12
+d54511fd-b710-4e52-8df8-805fdc034d8a,asterism.cam,available,8.99,17.49,medium,low,8,namesilo,,,20/09/2026 17:12
 6691eb8d-10a4-4880-97c7-6645a25af6b5,thankfully.cam,available,8.99,17.49,high,low,10,namesilo,,,16/09/2026 08:28
-1dc26917-ec29-4f2f-9ec3-666e43fc2095,stretchy.cam,available,2.98,22.98,high,low,8,namecheap,,,10/09/2026 22:32
+1dc26917-ec29-4f2f-9ec3-666e43fc2095,stretchy.cam,available,2.98,22.98,medium,low,8,namecheap,,,10/09/2026 22:32
 f3beb1a4-8f8a-488f-8e56-b6204c7790c7,automatism.cam,available,8.99,17.49,medium,low,10,namesilo,,,21/09/2026 06:59
 cc185bbd-bd6a-4e27-a93c-073cf2f24493,nafud.cam,available,2.98,22.98,medium,low,5,namecheap,,,19/09/2026 00:44
 4928060d-f3e8-4348-b54d-56dd0ad68064,conquer.cam,available,8.99,17.49,high,low,7,namesilo,,,
@@ -448,12 +459,13 @@ d290b517-3036-467b-9781-c8ed5f7c3bc9,atomiser.cam,available,8.99,17.49,medium,lo
 419482c0-2b75-4635-a5de-3559a424d4d7,angelim.cam,available,8.99,17.49,medium,low,7,namesilo,,,19/09/2026 03:59
 56479101-bd1d-40d1-8092-ef14ed1a4ae1,preston.cam,available,29.99,29.99,high,low,7,name.com,,,25/09/2026 20:01
 a6d04e6e-f925-42d4-b6bc-9de670b36b24,snipefish.cam,available,8.99,17.49,medium,low,9,namesilo,,,23/09/2026 06:28
+917e36f9-2654-4974-89f1-86c28d855a40,concentration.cam,available,1.7,14.69,high,low,13,spaceship,,,27/09/2026 21:44
 ababa9ef-5089-4282-966b-cf8e0906b744,spouse.cam,available,8.99,17.49,high,low,6,namesilo,,,23/09/2026 11:39
-3ece5f68-363a-4190-b1cf-24e083b7569b,platt.cam,available,8.99,17.49,high,low,5,namesilo,,,27/09/2026 06:33
+3ece5f68-363a-4190-b1cf-24e083b7569b,platt.cam,available,8.99,17.49,medium,low,5,namesilo,,,27/09/2026 06:33
 a55e321c-092b-475d-bad2-f4bbb1675193,immovable.cam,available,2.98,22.98,medium,low,9,namecheap,,,21/08/2026 21:17
 018e9a20-b154-4127-ad06-3c4123997489,accede.cam,available,8.99,17.49,high,low,6,namesilo,,,20/09/2026 16:11
 8eed67c4-6b12-4696-a284-547b52eefbc5,supersize.cam,available,8.99,17.49,high,low,9,namesilo,,,
-ee3dbf36-24b2-4968-b13f-341ce8f20e58,pure.cam,premium,1875,,high,medium,4,name.com,,,
+ee3dbf36-24b2-4968-b13f-341ce8f20e58,pure.cam,premium,1995,16.52,high,medium,4,namesilo,,,27/09/2026 08:17
 9e0c05e9-d432-4622-90d9-cf86ef3fd8b7,liv.cam,premium,1875,29.99,high,low,3,name.com,,,
 d28d438c-a0bb-45b4-a349-519e6e970147,realised.cam,available,8.99,17.49,high,low,8,namesilo,,,23/09/2026 17:33
 b3f0d91f-1fd8-42a9-ace6-178022e3f4a5,astatic.cam,available,2.98,22.98,medium,low,7,namecheap,,,07/08/2026 08:36
@@ -468,9 +480,10 @@ b3f0d91f-1fd8-42a9-ace6-178022e3f4a5,astatic.cam,available,2.98,22.98,medium,low
 ac248359-3e3b-4464-9662-53184a21c751,dualistic.cam,available,2.98,22.98,medium,low,9,namecheap,,,14/08/2026 20:40
 39aac1a1-41f0-4c19-b5c4-3211afaa535b,policy.cam,available,22.98,,high,low,6,namecheap,,,
 6363c0bc-2fac-4f8b-95dd-b4094892d6f1,louise.cam,available,8.99,17.49,high,low,6,namesilo,,,25/09/2026 13:47
-48d478c0-72d1-4a92-b8a3-3b0fa9add9e5,aggravated.cam,available,2.98,22.98,high,low,10,namecheap,,,
+48d478c0-72d1-4a92-b8a3-3b0fa9add9e5,aggravated.cam,available,2.98,22.98,medium,low,10,namecheap,,,
 1ccb6b78-7241-411f-9744-d580ebd51aab,sectorial.cam,available,2.98,22.98,medium,low,9,namecheap,,,10/09/2026 01:22
 3fe629ff-762e-425a-b9b3-b64d7d227e90,venerating.cam,available,2.98,22.98,high,low,10,namecheap,,,09/09/2026 16:09
+546917ee-bcbd-402f-995c-25dc808d258d,johan.cam,available,1.7,14.69,high,low,5,spaceship,,,27/09/2026 18:44
 5b001a76-7717-494a-8cae-7067989e1e76,boy.cam,premium,12500,,high,low,3,name.com,,,
 2c5fcce5-2764-48a3-bdcc-a283b01d1d94,peregrine.cam,available,2.98,22.98,medium,low,9,namecheap,,,25/08/2026 02:20
 fff67ee8-483d-4026-b08d-1a131b8b1718,anagoge.cam,available,2.98,22.98,medium,low,7,namecheap,,,19/09/2026 01:27
@@ -483,7 +496,7 @@ b1da69ec-932e-4817-a9f9-b7a019003ce5,supervised.cam,available,2.98,22.98,high,lo
 52fcd5d8-b834-4df6-b455-48b1cfc92e95,fits.cam,available,8.99,17.49,medium,low,4,namesilo,,,18/09/2026 18:43
 1a52c129-4256-4207-9d5e-6a0074a548c6,downstairs.cam,available,2.98,22.98,high,low,10,namecheap,,,14/08/2026 17:55
 953a9001-26ae-4890-a8c5-a60861818b92,saccade.cam,available,2.98,22.98,medium,low,7,namecheap,,,22/08/2026 12:47
-99a404f5-8b96-4fba-8747-30c554258629,group.cam,premium,97500,18.2,high,low,5,namecheap,,,
+99a404f5-8b96-4fba-8747-30c554258629,group.cam,premium,103500,16.52,high,low,5,namesilo,,,27/09/2026 09:25
 af954b86-b98f-4f2e-9376-7079b18d685c,coral.cam,premium,854,16.52,high,low,5,namesilo,,,23/09/2026 23:19
 50a20eb7-f9e0-4853-86ce-2d839e1de785,attacked.cam,available,8.99,17.49,medium,low,8,namesilo,,,25/09/2026 20:43
 0b059889-4f58-44ab-8f8d-fd6b45def35c,sat.cam,premium,854,16.52,high,low,3,namesilo,,,
@@ -491,7 +504,7 @@ af954b86-b98f-4f2e-9376-7079b18d685c,coral.cam,premium,854,16.52,high,low,5,name
 5caef76b-7a4f-41bb-a556-1a0007a6d46e,tumbling.cam,available,8.99,17.49,high,low,8,namesilo,,,17/09/2026 03:22
 80580db0-5bea-462d-9d7d-4784f4a90833,diagram.cam,available,8.99,17.49,high,low,7,namesilo,,,24/09/2026 22:08
 ef61f144-d7f3-4f88-a24c-7207f716a220,wistful.cam,available,2.98,22.98,high,low,7,namecheap,,,13/09/2026 12:45
-07f7839f-f37b-46fa-861e-14e46e8a231c,norwich.cam,available,8.99,17.49,high,low,7,namesilo,,,25/09/2026 14:43
+07f7839f-f37b-46fa-861e-14e46e8a231c,norwich.cam,available,8.99,17.49,medium,low,7,namesilo,,,25/09/2026 14:43
 2b3d1bc5-09b7-49c3-9d0d-92439e0408dc,autistic.cam,available,2.98,22.98,high,low,8,namecheap,,,07/08/2026 19:22
 1e2bc6a2-feea-43c0-9e88-6ccdc1fa0e1a,nose.cam,premium,500,,high,low,4,name.com,,,
 5259a696-4f91-4c44-b601-b529eba268ff,fussy.cam,available,2.98,22.98,medium,low,5,namecheap,,,08/08/2026 07:47
@@ -505,9 +518,9 @@ ab458c91-cf2a-4221-a97e-b41e934eeccf,expecting.cam,available,8.99,17.49,high,low
 94a00033-15ad-4a61-9202-df7cd734817f,abutilon.cam,available,2.98,22.98,medium,low,8,namecheap,,,16/09/2026 19:21
 5a80075a-10e9-4863-a2b7-ae64e12be071,civilized.cam,available,2.98,22.98,high,low,9,namecheap,,,12/08/2026 09:06
 e31a55e7-9d89-4b44-8259-a59911b5f92d,husbandry.cam,available,2.98,22.98,high,low,9,namecheap,,,17/08/2026 22:35
-b0abf91c-6c6b-4351-a506-8f711d55a16d,katabatic.cam,available,2.98,22.98,high,low,9,namecheap,,,11/08/2026 20:41
+b0abf91c-6c6b-4351-a506-8f711d55a16d,katabatic.cam,available,2.98,22.98,medium,low,9,namecheap,,,11/08/2026 20:41
 75115424-3ba3-4f43-846a-81d878758871,squalls.cam,available,8.99,17.49,low,low,7,namesilo,,,20/09/2026 14:16
-9fc09757-ba26-4bc0-933b-c92eca7770e6,esthetical.cam,available,2.98,22.98,high,low,10,namecheap,,,21/09/2026 21:22
+9fc09757-ba26-4bc0-933b-c92eca7770e6,esthetical.cam,available,2.98,22.98,medium,low,10,namecheap,,,21/09/2026 21:22
 a72324ba-bc6f-4b4d-bb78-8e7e7fcac999,zealot.cam,available,2.98,22.98,medium,low,6,namecheap,,,08/09/2026 02:10
 eb04a07c-8aac-45a4-bff3-6dbcc8146801,encounter.cam,available,2.98,22.98,high,low,9,namecheap,,,25/09/2026 19:00
 8deb8caa-c42f-4a28-81e4-344b52f39b66,ron.cam,premium,520,18.2,high,low,3,namecheap,,,25/09/2026 00:25
@@ -521,7 +534,7 @@ e40504fe-2b95-4c92-9549-d835ecb3101d,focus.cam,premium,512,16.52,high,medium,5,n
 992bc60f-e24f-43f8-9cc2-0071c319babb,galling.cam,available,,,high,low,7,,,,
 6d9494e9-6ef8-4e6d-988c-449b712e9368,radiation.cam,available,8.99,17.49,high,low,9,namesilo,,,17/09/2026 04:59
 c10af53f-0b42-4f31-a1af-fe9f1c39ed2f,aquatics.cam,available,8.99,17.49,high,low,8,namesilo,,,19/09/2026 23:08
-4b302154-d738-4e37-a9bb-74af066dcf55,antitrust.cam,available,2.98,22.98,high,low,9,namecheap,,,
+4b302154-d738-4e37-a9bb-74af066dcf55,antitrust.cam,available,2.98,22.98,medium,low,9,namecheap,,,
 92c42c9e-0ba6-4cb8-ae59-d2672b96c1d0,asmara.cam,available,8.99,17.49,medium,low,6,namesilo,,,20/09/2026 14:27
 5a22d943-76ed-4222-a08a-288026e9adaf,murmuring.cam,available,2.98,22.98,high,low,9,namecheap,,,03/09/2026 11:06
 35d39143-c71a-451f-80de-09d51383725c,medicinal.cam,available,2.98,22.98,high,low,9,namecheap,,,24/08/2026 19:01
@@ -533,9 +546,10 @@ cb722dab-0f6e-4564-8735-b8c3f0c1ad4c,abused.cam,available,2.98,22.98,high,low,6,
 aa27c30a-c6a5-44a6-b109-1a4b1755acc9,peptic.cam,available,2.98,22.98,medium,low,6,namecheap,,,08/09/2026 15:53
 2bb2296b-bf05-49db-9c74-bcb014b65b92,leia.cam,available,8.99,17.49,high,low,4,namesilo,,,
 6b679aff-d591-4813-a669-a42e1adfd924,masoud.cam,available,2.98,22.98,medium,low,6,namecheap,,,17/09/2026 20:25
-07a45983-46f6-40bd-bd95-e09486c0d8e6,aspirator.cam,available,8.99,17.49,high,low,9,namesilo,,,20/09/2026 15:23
+07a45983-46f6-40bd-bd95-e09486c0d8e6,aspirator.cam,available,8.99,17.49,medium,low,9,namesilo,,,20/09/2026 15:23
 81e5483a-720c-45b8-ac26-1565d31dd558,wickedness.cam,available,2.98,22.98,medium,low,10,namecheap,,,17/08/2026 15:06
 5d8580d5-e971-456c-9104-c82c9e9ffe5b,dean.cam,premium,854,16.52,high,low,4,namesilo,,,27/09/2026 03:39
+de958ec9-74c8-4a77-b4dd-ffe842dbfe39,areas.cam,available,8.99,17.49,medium,low,5,namesilo,,,27/09/2026 10:01
 c4481efc-d168-4d2b-acf9-3e615138189f,torrential.cam,available,2.98,22.98,medium,low,10,namecheap,,,11/09/2026 17:57
 72202a11-fbfe-4e1a-9aac-33024bb98fd9,amalgam.cam,available,8.99,17.49,high,low,7,namesilo,,,18/09/2026 15:38
 3ce16d89-6889-4d12-9157-4617f457d34f,pimiento.cam,available,29.99,29.99,medium,low,8,name.com,,,23/09/2026 05:38
@@ -544,7 +558,7 @@ d541f9f3-5024-415a-99cf-bec93a4fe35f,tingling.cam,available,2.98,22.98,high,low,
 3fa2f4aa-a70b-45c0-bc81-5869907d1fef,prussian.cam,available,2.98,22.98,high,low,8,namecheap,,,09/09/2026 04:50
 0b0b4f95-5d07-4434-a26a-58a43abd69d5,bivouac.cam,available,2.98,22.98,medium,low,7,namecheap,,,11/08/2026 15:54
 ac243d17-e378-46f2-a19f-1d37fceb4329,godlike.cam,available,2.98,22.98,high,low,7,namecheap,,,20/08/2026 16:06
-088d7d0a-c3e0-44a6-9b5d-02156a3abdb9,aflame.cam,available,2.98,22.98,high,low,6,namecheap,,,
+088d7d0a-c3e0-44a6-9b5d-02156a3abdb9,aflame.cam,available,2.98,22.98,medium,low,6,namecheap,,,
 2902a650-9811-40d5-81b1-f5c9cd6033da,sib.cam,premium,500,29.99,medium,low,3,name.com,,,12/08/2026 15:48
 28cad955-46ac-420d-b2d8-62055c69a9d4,chilly.cam,available,2.98,22.98,high,low,6,namecheap,,,12/08/2026 05:30
 a2fd2f3f-4ffa-45b5-9b96-c3536051c6c5,rated.cam,available,8.99,17.49,high,low,5,namesilo,,,
@@ -558,21 +572,21 @@ f4841b83-5a30-4c92-8555-99c07795d5af,jocose.cam,available,2.98,22.98,medium,low,
 35da6e7b-0df2-49c2-abcb-48500b3ac06e,palliative.cam,available,2.98,22.98,high,low,10,namecheap,,,
 f816c41b-aa58-4ebd-a464-3dfd7eb4186e,wilcox.cam,available,8.99,17.49,medium,low,6,namesilo,,,27/09/2026 01:45
 a5525232-12f4-467a-a957-d66609957021,democrat.cam,available,8.99,17.49,high,low,8,namesilo,,,
-bcdacf2b-1ab2-4b04-bb04-a22f85787b10,episcopal.cam,available,2.98,22.98,high,low,9,namecheap,,,17/08/2026 11:09
+bcdacf2b-1ab2-4b04-bb04-a22f85787b10,episcopal.cam,available,2.98,22.98,medium,low,9,namecheap,,,17/08/2026 11:09
 46e193b9-6931-44da-8b6c-72d66be16f3f,joyful.cam,available,2.98,22.98,high,low,6,namecheap,,,20/08/2026 14:22
 137d1d8b-52e3-4504-96f7-db8edcea7612,dimorphic.cam,available,2.98,22.98,medium,low,9,namecheap,,,14/08/2026 08:09
 a02f3a81-fe0f-4d0f-b803-d1ba510bdec9,ballerina.cam,available,8.99,17.49,high,low,9,namesilo,,,21/09/2026 22:49
 b071d7bc-f769-4ee9-a457-ddcef9cfee4f,grumbling.cam,available,2.98,22.98,medium,low,9,namecheap,,,20/08/2026 20:33
-fa18aa9f-9c4e-481c-b18a-e39d22b9d424,skimpy.cam,available,2.98,22.98,high,low,6,namecheap,,,10/09/2026 09:36
+fa18aa9f-9c4e-481c-b18a-e39d22b9d424,skimpy.cam,available,2.98,22.98,medium,low,6,namecheap,,,10/09/2026 09:36
 8754754e-c412-4e4f-bed3-d3dbbb0bce62,faulty.cam,available,2.98,22.98,medium,low,6,namecheap,,,13/08/2026 23:08
 cb6db6e4-5492-469a-b1b1-3c37103ebd9c,antilog.cam,available,8.99,17.49,medium,low,7,namesilo,,,19/09/2026 14:38
 550a36c7-e3e7-4402-9a24-cf5e7e22bda2,uuh.cam,available,8.99,17.49,medium,low,3,namesilo,,,20/09/2026 22:22
-9e5ca9c0-9817-4035-832c-23df32e83367,loony.cam,available,2.98,22.98,high,low,5,namecheap,,,06/08/2026 21:17
+9e5ca9c0-9817-4035-832c-23df32e83367,loony.cam,available,2.98,22.98,medium,low,5,namecheap,,,06/08/2026 21:17
 1e0fbcda-33e7-4d34-870c-7268a66d191d,bruise.cam,available,8.99,17.49,high,low,6,namesilo,,,
 f4bdbf5c-c122-48d9-8cac-fc4aa270e185,salisbury.cam,available,2.98,22.98,high,low,9,namecheap,,,24/09/2026 12:37
 3d54693f-61d4-4562-9b5b-4d0f9d25254b,synchronise.cam,available,8.99,17.49,high,low,11,namesilo,,,
 f42aa614-5599-43c4-837d-c030e5d38ac8,veggie.cam,available,8.99,17.49,high,low,6,namesilo,,,19/09/2026 06:34
-cbd9bb65-d0d4-4e66-932e-b66c877f5183,lament.cam,available,2.98,22.98,high,low,6,namecheap,,,22/08/2026 15:25
+cbd9bb65-d0d4-4e66-932e-b66c877f5183,lament.cam,available,2.98,22.98,medium,low,6,namecheap,,,22/08/2026 15:25
 ac2c249f-c588-4e0c-b1b0-d7194e89a599,nihilistic.cam,available,2.98,22.98,medium,low,10,namecheap,,,03/09/2026 17:24
 2cdc1c86-9128-42fb-b604-239e12da37bc,sneezed.cam,available,8.99,17.49,low,low,7,namesilo,,,20/09/2026 15:10
 6d342b7e-c6c7-4495-9141-4eaa535df447,decimal.cam,available,2.98,22.98,high,low,7,namecheap,,,13/08/2026 21:27
@@ -588,7 +602,7 @@ c96d3294-65bb-48eb-aa27-33fb90b1d0d2,deathless.cam,available,29.99,29.99,medium,
 43fbd781-14f3-459f-bd39-2c9c02899c27,advil.cam,available,8.99,17.49,medium,low,5,namesilo,,,17/09/2026 11:20
 35097943-6105-42ce-9ac0-e9a67b1371b2,nourished.cam,available,2.98,22.98,high,low,9,namecheap,,,03/09/2026 22:12
 c7627ef2-f36e-4ba9-b6dc-a1f5cda95904,lawrence.cam,available,8.99,17.49,high,low,8,namesilo,,,25/09/2026 04:32
-621b31ba-03b7-456e-929d-c5845362bebf,northampton.cam,available,2.98,22.98,high,low,11,namecheap,,,25/09/2026 14:57
+621b31ba-03b7-456e-929d-c5845362bebf,northampton.cam,available,2.98,22.98,medium,low,11,namecheap,,,25/09/2026 14:57
 496aef09-9aa3-436e-a46b-b59a53e56ee2,calder.cam,available,8.99,17.49,high,low,6,namesilo,,,18/09/2026 05:48
 950912a4-a71e-4cbb-9e84-94d175265823,itinerant.cam,available,2.98,22.98,high,low,9,namecheap,,,22/08/2026 11:41
 76c60a7f-b211-40c5-a2af-613be735ce3d,steroidal.cam,available,2.98,22.98,medium,low,9,namecheap,,,10/09/2026 20:19
@@ -619,20 +633,20 @@ d530cebd-8a51-4f71-82b2-6aa51ca16fa2,kilogramme.cam,available,22.98,,medium,low,
 54e0a2e2-b7a3-4c3b-a681-402a65916f61,xlviii.cam,available,2.98,22.98,medium,low,6,namecheap,,,
 cfc36d17-b825-475a-a9a7-99a21e5894f0,said.cam,available,8.99,17.49,high,low,4,namesilo,,,
 e8aa90c9-b0f1-4a16-8b23-9fc9e389d8c3,bookstore.cam,available,8.99,17.49,high,low,9,namesilo,,,24/09/2026 07:17
-e2e4c6ba-690c-4bd3-96c2-ac488a715d9f,audiology.cam,available,8.99,17.49,high,low,9,namesilo,,,21/09/2026 02:56
+e2e4c6ba-690c-4bd3-96c2-ac488a715d9f,audiology.cam,available,8.99,17.49,medium,low,9,namesilo,,,21/09/2026 02:56
 26f7ec41-61d0-4b08-abce-7a0d31e0a28d,passed.cam,available,8.99,17.49,medium,low,6,namesilo,,,
 0e9b4fbf-e1f0-4fff-97b5-7059e9c7e1f6,magnet.cam,premium,512,16.52,high,low,6,namesilo,,,21/09/2026 02:14
 f551275f-1dd3-44de-8bb8-fd9734dde20f,soonest.cam,available,2.98,22.98,medium,low,7,namecheap,,,14/08/2026 22:25
 6457bef8-971e-4dd3-837d-6d0e53a27d33,perspective.cam,available,8.99,17.49,high,low,11,namesilo,,,
 471b8109-ee56-46fa-ace4-1583693d62a4,overeasy.cam,available,29.99,29.99,medium,low,9,name.com,,,16/09/2026 17:44
-694842b4-5073-48b6-92de-822be3fbdaf2,antilles.cam,available,8.99,17.49,high,low,8,namesilo,,,19/09/2026 14:37
+694842b4-5073-48b6-92de-822be3fbdaf2,antilles.cam,available,8.99,17.49,medium,low,8,namesilo,,,19/09/2026 14:37
 9ef95b8f-c3e1-41f7-b0b1-fe3eaef7f3a1,drum.cam,premium,500,29.99,high,low,4,name.com,,,10/08/2026 18:17
 722a8fed-d839-4b1d-84a6-974ff0ed992d,oswald.cam,available,8.99,17.49,high,low,6,namesilo,,,25/09/2026 08:53
 f725fa15-24b3-41cb-ab27-353f9a1846e7,frankly.cam,available,2.98,22.98,high,low,7,namecheap,,,14/09/2026 05:08
 e9c659c2-efca-4892-b3e0-c0c0c5b8ccf9,catechetic.cam,available,2.98,22.98,medium,low,10,namecheap,,,11/08/2026 21:25
 e73aed2c-99f1-44fe-86a6-fe8736530c1d,childlike.cam,available,2.98,22.98,medium,low,9,namecheap,,,12/08/2026 05:12
 69634d29-2b36-4199-9ecc-3416cc508ad0,engine.cam,premium,1995,16.52,high,low,6,namesilo,,,25/09/2026 03:39
-90e3b1d2-ca41-4304-85ea-6d805ee4f78c,bethe.cam,available,8.99,17.49,high,low,5,namesilo,,,23/09/2026 11:12
+90e3b1d2-ca41-4304-85ea-6d805ee4f78c,bethe.cam,available,8.99,17.49,medium,low,5,namesilo,,,23/09/2026 11:12
 2f36cec6-de97-4cbf-bdee-0ae9abf9b5a4,reclaimed.cam,available,2.98,22.98,high,low,9,namecheap,,,09/09/2026 11:36
 2145e8bd-9695-45be-a74e-64a65427a208,banditry.cam,available,2.98,22.98,medium,low,8,namecheap,,,22/09/2026 01:24
 b78b7a1a-cb5d-440a-a6da-229338a6c2c1,blaeberry.cam,available,8.99,17.49,medium,low,9,namesilo,,,23/09/2026 15:39
@@ -661,10 +675,10 @@ e9cc0a78-0efa-4b26-9595-ed06ade4b8c0,luckily.cam,available,2.98,22.98,high,low,7
 6a07afb6-b6ce-4446-8637-1c97be0602ca,rarefy.cam,available,2.98,22.98,medium,low,6,namecheap,,,07/08/2026 15:31
 73d76f49-cde9-4579-bf7e-be618e3493d2,scandent.cam,available,2.98,22.98,medium,low,8,namecheap,,,09/09/2026 22:32
 ce682c9b-54a9-4752-b674-754bd9fb2279,bladder.cam,available,8.99,17.49,high,low,7,namesilo,,,24/09/2026 03:26
-e77cad34-4977-45f0-9bfc-6261955d7349,fantasm.cam,available,2.98,22.98,high,low,7,namecheap,,,08/09/2026 18:39
+e77cad34-4977-45f0-9bfc-6261955d7349,fantasm.cam,available,2.98,22.98,medium,low,7,namecheap,,,08/09/2026 18:39
 c2a579de-2e39-431c-a2e1-eb2456c45ce6,tectonics.cam,available,8.99,17.49,medium,low,9,namesilo,,,20/09/2026 02:14
 3ebe0cfa-3c4c-44f3-8107-6787cfc67b2a,offroader.cam,available,2.98,22.98,medium,low,10,namecheap,,,18/09/2026 09:00
-fff347f7-92dd-4c00-9fd7-b7573eda6f58,fungicide.cam,available,2.98,22.98,high,low,9,namecheap,,,
+fff347f7-92dd-4c00-9fd7-b7573eda6f58,fungicide.cam,available,2.98,22.98,medium,low,9,namecheap,,,
 9db8d080-b5fe-4602-b974-4aab2321e60f,purses.cam,available,8.99,17.49,medium,low,6,namesilo,,,20/09/2026 11:07
 2566f818-7551-457c-9752-f4e21b128bd7,doctorfish.cam,available,2.98,22.98,medium,low,10,namecheap,,,16/09/2026 20:58
 761fe194-f712-4144-9a2c-2e01a7fe082b,abductor.cam,available,8.99,17.49,medium,low,8,namesilo,,,16/09/2026 14:54
@@ -676,12 +690,12 @@ fb083eea-c17e-4c81-b997-7ab9c6c23592,jacques.cam,available,8.99,17.49,high,low,7
 98b26910-d83f-434e-b5c0-8c0eadd88b50,basileus.cam,available,8.99,17.49,medium,low,8,namesilo,,,22/09/2026 10:47
 cc238aa8-01c2-413c-b20b-6ae30ae7582b,miracle.cam,premium,1000,,high,low,7,name.com,,,
 b60bb2d1-d623-401e-a1ca-5cdedbdf831f,mannered.cam,available,2.98,22.98,medium,low,8,namecheap,,,24/08/2026 15:18
-a8429753-1418-425f-9535-dda48ca55d45,declarer.cam,available,8.99,17.49,high,low,8,namesilo,,,17/09/2026 14:33
+a8429753-1418-425f-9535-dda48ca55d45,declarer.cam,available,8.99,17.49,medium,low,8,namesilo,,,17/09/2026 14:33
 dea77eb5-2f3b-47b2-a5a0-befe8c7c5b39,dickhead.cam,available,2.98,22.98,medium,low,8,namecheap,,,08/08/2026 23:34
 c12275d2-c11a-470c-846e-de51b4237ecf,truth.cam,premium,500,,high,medium,5,name.com,,,
 c9fdae9e-337f-4b98-9965-0954ffd60ffc,perceiving.cam,available,22.98,,high,low,10,namecheap,,,
 b905afd1-7ce0-4033-9599-7f9ece0eabfe,antoine.cam,available,2.98,22.98,high,low,7,namecheap,,,25/09/2026 14:52
-de9a72dc-2c6f-4ed1-aa63-3a5c5c3bd617,alterable.cam,available,8.99,17.49,high,low,9,namesilo,,,22/09/2026 02:18
+de9a72dc-2c6f-4ed1-aa63-3a5c5c3bd617,alterable.cam,available,8.99,17.49,medium,low,9,namesilo,,,22/09/2026 02:18
 5d5edacd-3515-415a-bd8e-c80e9a971558,pretoria.cam,available,8.99,17.49,high,low,8,namesilo,,,
 bf3c7db1-f6f4-4eb9-bf32-a11aa3765a89,fop.cam,premium,500,29.99,medium,low,3,name.com,,,13/08/2026 17:09
 977a1efb-b63c-4bb0-8227-41bb68e71d12,returns.cam,available,2.98,22.98,high,low,7,namecheap,,,17/09/2026 17:19
@@ -711,7 +725,7 @@ bb919f83-7535-4d6f-b816-30670cf6fea3,half.cam,premium,512,16.52,high,low,4,names
 b90cc369-ae2a-4c02-ab44-f2b15bc2c04f,kiwi.cam,resell,,,high,high,4,Dynadot Inc,15/05/2026 13:13,15/05/2027 23:59,26/09/2026 07:06
 c47e7627-31dc-4e37-bcac-a01051e97656,munificent.cam,available,2.98,22.98,high,low,10,namecheap,,,22/08/2026 21:09
 6f21d29c-a0c2-4c27-bb72-0f5fbe2cff45,jet.cam,premium,1875,29.99,high,medium,3,name.com,,,12/08/2026 13:39
-0ad14d56-4e30-4b81-aeee-e4e9bbdcd409,clamp.cam,available,8.99,17.49,high,low,5,namesilo,,,24/09/2026 15:19
+0ad14d56-4e30-4b81-aeee-e4e9bbdcd409,clamp.cam,available,8.99,17.49,medium,low,5,namesilo,,,24/09/2026 15:19
 007f1066-f166-4a89-b47f-6f179cbe4bb0,spread.cam,premium,854,16.52,high,low,6,namesilo,,,23/09/2026 15:42
 30256149-a4dc-434a-b184-13c46aec392c,reservations.cam,available,8.99,17.49,medium,low,12,namesilo,,,17/09/2026 23:30
 99ccdacd-a046-4fb2-8cf2-06e4ef61a30e,pop.cam,premium,854,16.52,high,medium,3,namesilo,,,24/09/2026 11:55
@@ -725,7 +739,7 @@ fd94a670-194f-4b68-bccc-8a5d8000cfb9,tokens.cam,resell,,,high,medium,6,Dynadot I
 699336ec-cfd2-47da-9ecf-e04d0bbbf2e2,billow.cam,available,8.99,17.49,medium,low,6,namesilo,,,23/09/2026 16:34
 12f835ff-700e-4601-b862-d0e4155a6d2e,prayed.cam,available,2.98,22.98,medium,low,6,namecheap,,,18/09/2026 02:41
 e3338a1c-506a-48ba-af6f-4efcd358c77f,prentice.cam,available,8.99,17.49,medium,low,8,namesilo,,,19/09/2026 22:19
-8d91c728-c17b-44cc-b8f8-86dc87f59c0d,darius.cam,available,8.99,17.49,high,low,6,namesilo,,,27/09/2026 07:28
+8d91c728-c17b-44cc-b8f8-86dc87f59c0d,darius.cam,available,8.99,17.49,medium,low,6,namesilo,,,27/09/2026 07:28
 ae4e3e76-4001-4201-b732-3fb66e7d1838,biography.cam,available,2.98,22.98,high,low,9,namecheap,,,23/09/2026 18:09
 e6c7fae3-a4c1-4291-bdd0-0f225bdddb0a,wannabe.cam,available,2.98,22.98,medium,low,7,namecheap,,,07/08/2026 05:17
 ec346fbe-8cc2-4031-a8a0-5c07e29db6fb,auspex.cam,available,8.99,17.49,medium,low,6,namesilo,,,21/09/2026 03:22
@@ -737,10 +751,10 @@ ec346fbe-8cc2-4031-a8a0-5c07e29db6fb,auspex.cam,available,8.99,17.49,medium,low,
 013990d7-3229-45f1-b8d2-240065f18871,confusion.cam,available,8.99,17.49,high,low,9,namesilo,,,
 8f4db722-ecf9-4d40-a94b-52a281dbf14d,infernal.cam,available,2.98,22.98,high,low,8,namecheap,,,10/08/2026 12:50
 5e60dc5f-18f2-4f8d-9a90-b827c924ed15,barley.cam,available,2.98,22.98,high,low,6,namecheap,,,22/09/2026 06:33
-382392cb-eb20-4002-83e5-9f0c8b16a5c4,alaric.cam,available,2.98,22.98,high,low,6,namecheap,,,18/09/2026 01:52
+382392cb-eb20-4002-83e5-9f0c8b16a5c4,alaric.cam,available,2.98,22.98,medium,low,6,namecheap,,,18/09/2026 01:52
 82852b53-1edc-4da5-ac4e-f6d03d8e9910,abampere.cam,available,8.99,17.49,medium,low,8,namesilo,,,16/09/2026 13:54
 9b29f854-7cf8-4fef-80d9-05976ebd866a,crumpled.cam,available,2.98,22.98,medium,low,8,namecheap,,,13/08/2026 09:06
-0d194442-08b9-40d1-b201-11f4db438796,gnostic.cam,available,2.98,22.98,high,low,7,namecheap,,,20/08/2026 15:47
+0d194442-08b9-40d1-b201-11f4db438796,gnostic.cam,available,2.98,22.98,medium,low,7,namecheap,,,20/08/2026 15:47
 cf6bb107-cdfc-4f0a-b280-8ac261e4231b,handwoven.cam,available,2.98,22.98,medium,low,9,namecheap,,,20/08/2026 23:19
 e99f2be6-8270-410f-941b-d66f2b565ee8,wave.cam,premium,1875,,high,medium,4,name.com,,,
 c38fd287-1b62-4dcf-af5b-4dbd3430b164,liaise.cam,available,2.98,22.98,high,low,6,namecheap,,,22/08/2026 08:15
@@ -750,12 +764,12 @@ f2556656-03f1-41ed-abbc-56b40b0e1107,flimsy.cam,available,2.98,22.98,medium,low,
 4a0b49c1-e3fe-4cb2-8bd8-62421e18f040,import.cam,available,2.98,22.98,high,low,6,namecheap,,,25/09/2026 18:33
 682ae00e-7066-4ced-9c18-29af9e7652ab,anisette.cam,available,8.99,17.49,medium,low,8,namesilo,,,19/09/2026 09:29
 59202272-c503-4e4c-ac8a-1c0eb31ea285,provide.cam,available,8.99,17.49,high,low,7,namesilo,,,
-de430d79-6fdc-4ccd-a199-18c688df5755,shaded.cam,available,2.98,22.98,high,low,6,namecheap,,,10/09/2026 05:23
+de430d79-6fdc-4ccd-a199-18c688df5755,shaded.cam,available,2.98,22.98,medium,low,6,namecheap,,,10/09/2026 05:23
 3dc4db99-a73f-4126-9022-b4a321025bd5,hemic.cam,available,2.98,22.98,low,low,5,namecheap,,,20/08/2026 21:49
 522cc5bb-2314-46c3-b939-a305f42c0b05,reddened.cam,available,2.98,22.98,high,medium,8,namecheap,,,09/09/2026 12:10
 fe923964-9ef4-4196-a519-f2c4d4c05ed7,bpi.cam,premium,512,16.52,high,low,3,namesilo,,,23/09/2026 22:46
 d9f4bb67-7daa-46a1-a991-e09667737fd2,apoplexy.cam,available,2.98,22.98,medium,low,8,namecheap,,,19/09/2026 19:09
-8f19d8f7-26a2-4550-aa1d-6d5f9f9fd7cd,tashkent.cam,available,2.98,22.98,high,low,8,namecheap,,,24/09/2026 12:32
+8f19d8f7-26a2-4550-aa1d-6d5f9f9fd7cd,tashkent.cam,available,2.98,22.98,medium,low,8,namecheap,,,24/09/2026 12:32
 65f261f9-20bc-49a5-99df-37865239bfd0,coco.cam,premium,512,16.52,high,high,4,namesilo,,,24/09/2026 16:14
 85e867bf-2296-44d9-91bb-2f9bcabd317e,subverter.cam,available,2.98,22.98,medium,low,9,namecheap,,,09/09/2026 16:25
 2e2f1a74-10b5-4ab7-ad76-724c7eb0c5f7,obamacare.cam,available,8.99,17.49,medium,low,10,namesilo,,,
@@ -774,8 +788,9 @@ abb36439-a6c0-449b-8849-ced31b5ba9de,calculates.cam,available,8.99,17.49,medium,
 cb17367f-887d-4f2f-a8a6-fcbe8fecd94d,unsociable.cam,available,2.98,22.98,medium,low,10,namecheap,,,12/09/2026 20:09
 01b2c2f5-0686-4322-a2e1-0e2ddf767eb7,min.cam,premium,1875,29.99,high,low,3,name.com,,,25/08/2026 00:58
 39f44c16-7ff0-4bca-8a42-eef5c8e9d364,vip.cam,premium,1950,18.2,high,medium,3,namecheap,,,24/09/2026 22:17
-a847f576-f438-4735-ab6a-ceba33eb9df3,units.cam,available,29.99,29.99,high,low,5,name.com,,,17/09/2026 16:07
+a847f576-f438-4735-ab6a-ceba33eb9df3,units.cam,available,29.99,29.99,medium,low,5,name.com,,,17/09/2026 16:07
 6d042845-47ec-4e8c-968b-a83b2a015677,accused.cam,available,8.99,17.49,high,low,7,namesilo,,,
+a52322d6-c8e7-413a-975c-31142ee5ef28,est.cam,premium,1638.01,15.81,high,low,3,porkbun,,,28/09/2026 01:49
 43070cb4-8629-4516-9842-e2a1b15e73eb,amateur.cam,premium,34500,16.52,high,low,7,namesilo,,,22/09/2026 03:21
 b83b4abb-e762-41b6-a1e4-d11cc9808129,permutation.cam,available,22.98,,high,low,11,namecheap,,,
 5ef40409-4798-4689-ae4e-f4bfb1c806a2,parkin.cam,available,8.99,17.49,medium,low,7,namesilo,,,17/09/2026 01:13
@@ -819,11 +834,13 @@ b7ff9b00-815c-4671-9b69-7c899cfb78de,unless.cam,available,29.99,29.99,medium,low
 73c2bcec-9b4e-4a45-8d13-3119ebbc3bcb,advancing.cam,available,2.98,22.98,high,low,9,namecheap,,,21/09/2026 20:51
 e47e514b-0ef0-43f9-90e2-8b6c0069cc2d,attempt.cam,available,8.99,17.49,high,low,7,namesilo,,,
 f9cfb006-afca-4113-a00c-9bc541ba51da,abbess.cam,available,8.99,17.49,medium,low,6,namesilo,,,16/09/2026 14:23
+d7cb2cf0-50c3-4e7e-9401-7ad3096dfb07,kidd.cam,available,1.7,14.69,high,low,4,spaceship,,,28/09/2026 01:23
 e7af7025-d1c9-4c12-8be7-2871ef7a418c,threats.cam,available,8.99,17.49,medium,low,7,namesilo,,,18/09/2026 23:54
 bbeca2e9-4911-4521-8830-e0ef70738429,visibility.cam,available,8.99,17.49,high,low,10,namesilo,,,
 8d2926a7-df65-47d5-8040-f74a1a4a8932,buxom.cam,available,2.98,22.98,medium,low,5,namecheap,,,10/08/2026 20:28
 a601ad26-bd46-4d41-bfa1-faecce77b92a,xml.cam,premium,1040,18.2,medium,low,3,namecheap,,,27/09/2026 02:25
 02af7f86-ec3a-47b6-8029-ac2b9fc1f676,kind.cam,premium,1995,16.52,high,low,4,namesilo,,,25/09/2026 12:40
+476f33ef-ff13-4141-ab3e-8f0ef76ad325,pliny.cam,available,13.99,27.99,medium,low,5,godaddy,,,28/09/2026 01:57
 c30eaaa5-4ae2-41f1-ac6c-11b276e63954,murders.cam,available,29.99,29.99,low,low,7,name.com,,,25/09/2026 21:34
 868d2f52-7d32-44ce-a21b-7e052ef17293,deny.cam,available,8.99,17.49,high,low,4,namesilo,,,25/09/2026 11:07
 e91ace68-c1d7-4c9d-a84d-1ed48567541c,kroeber.cam,available,2.98,22.98,medium,low,7,namecheap,,,18/09/2026 06:35
@@ -865,7 +882,7 @@ d9acd15f-7dca-4304-8ef8-a77fdd26b5b2,saprobic.cam,available,2.98,22.98,high,medi
 d3daa667-4226-4fbb-852a-450a82e13fdf,mitotic.cam,available,2.98,22.98,medium,low,7,namecheap,,,25/08/2026 02:08
 6387d3bc-b2d2-4494-936b-fb262a1bad6e,anarchist.cam,available,2.98,22.98,high,low,9,namecheap,,,19/09/2026 02:24
 1f83f4e3-a710-487f-bc1d-0f8badb47bf6,curve.cam,available,2.98,22.98,high,low,5,namecheap,,,06/08/2026 15:00
-248667b3-633c-4e67-b1a7-7e266ef3105e,unflawed.cam,available,2.98,22.98,high,low,8,namecheap,,,18/08/2026 07:21
+248667b3-633c-4e67-b1a7-7e266ef3105e,unflawed.cam,available,2.98,22.98,medium,low,8,namecheap,,,18/08/2026 07:21
 0e40e2d1-4b4e-4c7e-a13a-0e8087ddbf0d,anthriscus.cam,available,2.98,22.98,medium,low,10,namecheap,,,19/09/2026 13:53
 59f4406b-812a-403f-8b78-c75d8742dd8a,textbook.cam,available,8.99,17.49,high,low,8,namesilo,,,23/09/2026 13:09
 d562f752-dc83-49ae-ac8f-8660cb60fa16,embedded.cam,available,2.98,22.98,high,low,8,namecheap,,,16/08/2026 08:42
@@ -878,7 +895,7 @@ c0ba033b-eb35-41c7-88e2-1fa92d4f8ceb,tolerable.cam,available,8.99,17.49,medium,l
 6db2ce39-41f2-4c17-ba20-63e24cfb07ff,eric.cam,premium,854,16.52,high,medium,4,namesilo,,,25/09/2026 11:25
 085ed4f0-2865-453f-85bf-602ed112b99b,acetin.cam,available,8.99,17.49,medium,low,6,namesilo,,,17/09/2026 00:06
 30357620-f151-4217-a865-051adeb6e0aa,sneezes.cam,available,8.99,17.49,medium,low,7,namesilo,,,20/09/2026 09:46
-c52bff32-008e-42e2-8cad-4bd080567573,chordal.cam,available,2.98,22.98,high,low,7,namecheap,,,12/08/2026 07:06
+c52bff32-008e-42e2-8cad-4bd080567573,chordal.cam,available,2.98,22.98,medium,low,7,namecheap,,,12/08/2026 07:06
 b052a90e-29ac-47af-96e4-764fd1644977,pencils.cam,available,8.99,17.49,medium,low,7,namesilo,,,20/09/2026 08:42
 3d6fc01d-c8af-42fc-b3e6-55237b9e8c17,apoplectic.cam,available,2.98,22.98,medium,low,10,namecheap,,,06/08/2026 03:29
 796b1d09-78f7-4d31-9b84-6bcff242ec2f,unitedly.cam,available,8.99,17.49,medium,low,8,namesilo,,,16/09/2026 10:08
@@ -894,7 +911,7 @@ a5653b65-f654-4aaf-9e5b-75eafd3b6e48,three.cam,premium,1995,16.52,high,low,5,nam
 d105ecae-0def-489d-8e6c-bc6532cd4e4f,trey.cam,available,2.98,22.98,high,low,4,namecheap,,,
 8f9e629d-1fa6-4f6d-9ac3-87291e89ed3a,agendum.cam,available,8.99,17.49,medium,low,7,namesilo,,,17/09/2026 17:05
 77eb8279-bc1a-412f-a6dc-d9ddaab6fb5c,portland.cam,premium,854,16.52,high,low,8,namesilo,,,
-88b00559-e0a6-40d8-83bd-72d7acd3a060,auk.cam,available,8.99,17.49,high,low,3,namesilo,,,21/09/2026 04:07
+88b00559-e0a6-40d8-83bd-72d7acd3a060,auk.cam,available,8.99,17.49,medium,low,3,namesilo,,,21/09/2026 04:07
 cf488ba9-dc29-4602-b730-833932134946,hallowed.cam,available,2.98,22.98,high,low,8,namecheap,,,20/08/2026 22:52
 5f78b2aa-bdaa-4f0f-9551-e735383ec313,esthetics.cam,available,8.99,17.49,high,low,9,namesilo,,,17/09/2026 13:38
 14838934-3582-42f1-aeda-c65d3f10b5aa,anpu.cam,available,8.99,17.49,medium,low,4,namesilo,,,19/09/2026 11:59
@@ -907,7 +924,7 @@ cdaf6f9c-5c98-4dd8-95af-54fd2262e258,almandine.cam,available,8.99,17.49,medium,l
 767d1373-8ded-44d3-92b4-2c6e189a5a45,antipode.cam,available,8.99,17.49,medium,low,8,namesilo,,,19/09/2026 14:58
 a83e30fa-60ee-4977-937b-a811d3fd41de,megabucks.cam,available,2.98,22.98,high,low,9,namecheap,,,23/09/2026 14:11
 ce504a9f-0bb6-47f8-a863-c37e28f85677,whiney.cam,available,2.98,22.98,medium,low,6,namecheap,,,09/09/2026 08:35
-f006dfcf-a354-4cf4-8f8f-7b1b217e8e1c,voices.cam,available,8.99,17.49,high,low,6,namesilo,,,
+f006dfcf-a354-4cf4-8f8f-7b1b217e8e1c,voices.cam,available,8.99,17.49,medium,low,6,namesilo,,,
 8d9922fc-2644-4476-91da-b730a3c27038,adapter.cam,available,8.99,17.49,high,low,7,namesilo,,,17/09/2026 06:30
 52c8832f-ebec-4897-8df4-3651af5b3c4f,bare.cam,premium,1950,18.2,high,low,4,namecheap,,,22/09/2026 11:54
 d6b2c276-c83d-4202-a0c3-0d915a65df89,stockholm.cam,premium,854,16.52,high,low,9,namesilo,,,
@@ -915,16 +932,17 @@ d47c4092-da92-4186-823e-2ac2b84b466b,puritanic.cam,available,2.98,22.98,high,med
 f99b1ad8-cf79-4fb1-ba4d-4cf69b6158ff,netlike.cam,available,2.98,22.98,medium,low,7,namecheap,,,03/09/2026 16:00
 f970a8e6-568f-4a3b-b618-64bfdd96e3d7,keyed.cam,available,2.98,22.98,medium,low,5,namecheap,,,22/08/2026 15:42
 9e7d9c03-ed93-4afc-a01e-5facd3834dcd,balkan.cam,premium,520,18.2,high,low,6,namecheap,,,21/09/2026 22:14
-6675b993-788d-4d86-a4b2-6f8a721efe40,elusive.cam,available,2.98,22.98,high,low,7,namecheap,,,08/08/2026 08:07
-7c1541dc-592b-4f1f-8a57-41c56afa7df4,cased.cam,available,2.98,22.98,high,low,5,namecheap,,,11/08/2026 20:04
+6675b993-788d-4d86-a4b2-6f8a721efe40,elusive.cam,available,2.98,22.98,medium,low,7,namecheap,,,08/08/2026 08:07
+7c1541dc-592b-4f1f-8a57-41c56afa7df4,cased.cam,available,2.98,22.98,medium,low,5,namecheap,,,11/08/2026 20:04
 5c27bba0-69b9-49bb-86af-bbedad29a5e7,brooke.cam,premium,854,16.52,high,low,6,namesilo,,,25/09/2026 02:29
-df7a097e-1b0e-4d95-a443-cad52f323d75,fated.cam,available,2.98,22.98,high,low,5,namecheap,,,17/08/2026 23:32
+df7a097e-1b0e-4d95-a443-cad52f323d75,fated.cam,available,2.98,22.98,medium,low,5,namecheap,,,17/08/2026 23:32
 bf259605-1e9d-46f0-90f7-0f0a5979836f,arundo.cam,available,8.99,17.49,medium,low,6,namesilo,,,20/09/2026 12:25
 e2b9301a-8653-4b03-b298-1f1ec9961981,maternally.cam,available,2.98,22.98,medium,low,10,namecheap,,,25/08/2026 07:10
 b752c592-0aac-4030-9363-e2b2943a3f54,hither.cam,available,2.98,22.98,medium,low,6,namecheap,,,15/09/2026 00:48
 0213dc38-c55d-43a8-98a0-18f159458615,seditious.cam,available,2.98,22.98,medium,low,9,namecheap,,,22/08/2026 01:29
 75ff477b-dfeb-43f0-b809-2fb4efb867bb,arachis.cam,available,8.99,17.49,medium,low,7,namesilo,,,19/09/2026 23:37
 339a00bf-c2fd-4eed-9f59-fc71f9277ff9,ache.cam,available,2.98,22.98,medium,low,4,namecheap,,,
+bce915ee-f416-4887-a82e-5269d0407d8f,met.cam,premium,828.2,14.69,high,low,3,spaceship,,,27/09/2026 17:23
 2c10c5d4-fdf1-4e7b-91f5-8b86dbe7a8a8,leather.cam,premium,500,,high,low,7,name.com,,,
 5b2149db-e117-4d91-abe0-402521877b92,sydney.cam,premium,854,16.52,high,low,6,namesilo,,,25/09/2026 10:47
 8edb80fd-c8f6-4f90-ac26-3904d5890880,peach.cam,premium,500,29.99,high,low,5,name.com,,,22/08/2026 16:45
@@ -934,7 +952,7 @@ e970c894-4a1d-4474-8c41-41fb933dd452,through.cam,available,8.99,17.49,high,low,7
 8d04b7b6-0171-4730-af23-cc37db1f0886,bitewing.cam,available,8.99,17.49,medium,low,8,namesilo,,,23/09/2026 22:28
 8b146128-7ff3-4688-863c-c3cf99c5cd68,sloshed.cam,available,2.98,22.98,low,low,7,namecheap,,,09/08/2026 15:48
 39ac705d-6a6c-4a01-bbe1-bd7fc2edceee,apodeme.cam,available,2.98,22.98,medium,low,7,namecheap,,,19/09/2026 18:17
-74afd7c1-f9ca-4932-a81d-a693fec1809f,shower.cam,premium,31250,29.99,high,low,6,name.com,,,22/08/2026 21:17
+74afd7c1-f9ca-4932-a81d-a693fec1809f,shower.cam,premium,34500,16.52,high,low,6,namesilo,,,27/09/2026 09:04
 b81b9609-2337-4a90-ba18-c2b9595d9547,beans.cam,available,22.98,,high,low,5,namecheap,,,
 48927eed-da5d-4641-8ddb-61b487672c98,deviance.cam,available,8.99,17.49,medium,low,8,namesilo,,,16/09/2026 15:16
 d4e51745-cc30-4b43-a0bd-6870087633d9,grammatic.cam,available,2.98,22.98,medium,low,9,namecheap,,,20/08/2026 17:56
@@ -945,6 +963,7 @@ f89fbdf9-5708-4e44-8c31-c842810ab7ef,matching.cam,resell,,,high,low,8,Porkbun LL
 2ecdb2d2-bfa2-43cd-b7d5-556f079cd3cd,crop.cam,available,2.98,22.98,high,low,4,namecheap,,,24/09/2026 19:07
 7476e095-25fa-4456-8dae-afdc8a65f7e2,primer.cam,available,22.98,,high,low,6,namecheap,,,
 e5d0c8f4-9d0e-485a-acd7-1864e5e31064,diocese.cam,available,8.99,17.49,high,low,7,namesilo,,,23/09/2026 21:58
+87a9e0e4-74eb-472c-ac1d-7681744286d3,bloomington.cam,available,8.99,17.49,medium,low,11,namesilo,,,27/09/2026 08:15
 9f948ee2-39a7-4d96-8e48-e31a36123ff8,perez.cam,available,8.99,17.49,high,low,5,namesilo,,,25/09/2026 15:41
 4e7df875-d55f-46d6-b589-4a3530179a4d,conserved.cam,available,2.98,22.98,high,low,9,namecheap,,,12/08/2026 22:38
 044ab870-7f06-4bed-8019-f7fe75e8afda,pamper.cam,available,8.99,17.49,high,low,6,namesilo,,,
@@ -956,12 +975,12 @@ eb54b634-d606-4150-9815-54186a7d29c5,roman.cam,premium,520,18.2,high,low,5,namec
 26cce8b5-be20-4da6-b9ab-45a039f6700b,sniffly.cam,available,2.98,22.98,high,medium,7,namecheap,,,10/09/2026 12:35
 d392403c-31e7-4fba-8509-37b1feb31969,turing.cam,available,8.99,17.49,high,low,6,namesilo,,,18/09/2026 01:45
 a22ae061-1a84-4a4b-9a9f-f7fdd4f77b86,crayon.cam,available,2.98,22.98,high,low,6,namecheap,,,24/09/2026 19:11
-cc1c6878-4032-4f38-b199-ead60fc6e81d,thud.cam,available,2.98,22.98,high,low,4,namecheap,,,11/09/2026 15:12
+cc1c6878-4032-4f38-b199-ead60fc6e81d,thud.cam,available,2.98,22.98,medium,low,4,namecheap,,,11/09/2026 15:12
 ee773948-c248-4704-a1ab-2c762df89e3b,legible.cam,available,2.98,22.98,high,low,7,namecheap,,,22/08/2026 22:59
 7494ab6a-d0c4-4909-9cbe-ce8cf3fc3ef7,abstractly.cam,available,2.98,22.98,medium,low,10,namecheap,,,13/09/2026 16:42
 f5787035-96a7-4761-afa9-5d296dcd99be,introduces.cam,available,8.99,17.49,medium,low,10,namesilo,,,18/09/2026 14:34
 4ef70545-f848-4385-b33e-5e1f8f46b94b,edmonton.cam,premium,854,16.52,high,low,8,namesilo,,,25/09/2026 22:33
-a4b963d7-30ea-4303-992e-2d13fa092fb1,strategic.cam,available,8.99,17.49,high,low,9,namesilo,,,
+a4b963d7-30ea-4303-992e-2d13fa092fb1,strategic.cam,available,13.99,27.99,high,low,9,godaddy,,,28/09/2026 01:36
 9136a05f-c190-4036-b3f9-4e74e7b49ea4,waterless.cam,available,2.98,22.98,medium,low,9,namecheap,,,06/08/2026 19:03
 3b2e672c-6cbf-455e-baae-7f5bd678a7af,aseptic.cam,available,2.98,22.98,high,low,7,namecheap,,,22/09/2026 09:33
 f679655a-a297-4730-a6f3-0d82e9f916ea,attalea.cam,available,8.99,17.49,medium,low,7,namesilo,,,21/09/2026 01:14
@@ -970,7 +989,7 @@ b0117904-85f2-4005-849c-a2f3de772616,temporal.cam,available,2.98,22.98,high,low,
 2d3471cf-51d1-4813-9de9-0e9ceaa60d40,testify.cam,available,8.99,17.49,high,low,7,namesilo,,,25/09/2026 11:08
 128a2c2e-a210-41e1-b4e1-0ae271db0efd,unvalued.cam,available,2.98,22.98,medium,low,8,namecheap,,,12/09/2026 22:02
 f1518548-8204-4a6f-b5d5-c45b9f43903d,bitt.cam,available,8.99,17.49,medium,low,4,namesilo,,,23/09/2026 22:49
-e3db8c74-63bc-43ec-b2ae-82a70f4dd522,amerindian.cam,available,2.98,22.98,high,low,10,namecheap,,,03/09/2026 13:51
+e3db8c74-63bc-43ec-b2ae-82a70f4dd522,amerindian.cam,available,2.98,22.98,medium,low,10,namecheap,,,03/09/2026 13:51
 499bb9db-1f8e-4782-825c-5548a86dc365,stephanie.cam,premium,854,16.52,high,low,9,namesilo,,,25/09/2026 14:12
 4a7849ec-03e2-47d7-a82f-46a5699b2b91,suspended.cam,available,2.98,22.98,medium,low,9,namecheap,,,11/09/2026 04:55
 9ec71656-3612-4435-bd7e-0509d6dcb9cb,doodlebug.cam,available,8.99,17.49,medium,low,9,namesilo,,,19/09/2026 12:18
@@ -980,22 +999,3 @@ df6042f9-baad-4683-9bcc-0b767272c1eb,randomized.cam,available,2.98,22.98,high,me
 0a5fec92-56b7-4c7c-8326-d65081915fea,stitches.cam,available,8.99,17.49,medium,low,8,namesilo,,,
 383b940c-c921-4ebc-b471-0ab138e55787,pal.cam,premium,854,16.52,high,low,3,namesilo,,,
 dcaf2739-c404-4117-a59d-f770bee1ad6d,galactic.cam,available,2.98,22.98,high,low,8,namecheap,,,18/08/2026 19:35
-2536f553-388b-4b17-be92-25c6442f0ff6,adept.cam,available,8.99,17.49,high,low,5,namesilo,,,21/09/2026 17:17
-a1156400-be36-45f9-a9ab-053634d19bc3,verily.cam,available,29.99,29.99,medium,low,6,name.com,,,16/09/2026 10:51
-1fe1f65c-7708-423b-b432-d5c5ea813fcf,represented.cam,available,8.99,17.49,high,low,11,namesilo,,,
-c3127f8a-443f-47ab-9fd7-0f6787182965,unlearned.cam,available,2.98,22.98,medium,low,9,namecheap,,,21/08/2026 18:31
-16e6a62a-cf30-46ce-b14f-232af749a809,delivered.cam,available,2.98,22.98,medium,low,9,namecheap,,,25/09/2026 18:04
-7a2f8901-5c1e-4971-bbfe-81092b662907,renewal.cam,available,8.99,17.49,high,low,7,namesilo,,,
-3d731c1a-a125-490c-8b1d-956d356e6449,erroneous.cam,available,2.98,22.98,medium,low,9,namecheap,,,17/08/2026 12:56
-b08cd382-9fa3-4893-9846-0673c4c5dab0,alacrity.cam,available,2.98,22.98,high,low,8,namecheap,,,18/09/2026 01:37
-7f692bfc-2936-4d26-8a43-36c97c689c0b,bewildered.cam,available,2.98,22.98,medium,low,10,namecheap,,,07/08/2026 11:52
-2aaa1273-9a61-4c49-a4a8-c3903f5aa91e,piagetian.cam,available,2.98,22.98,high,medium,9,namecheap,,,08/09/2026 19:26
-3afcee25-16ad-44cc-91a0-91d328f97ccf,kuwaiti.cam,available,2.98,22.98,high,low,7,namecheap,,,22/08/2026 17:05
-9321dc23-bcd3-4da1-999c-24323b2787a3,alarmism.cam,available,2.98,22.98,medium,low,8,namecheap,,,18/09/2026 01:58
-04636784-a64b-4c5d-8684-b2074bd78875,vagile.cam,available,2.98,22.98,low,low,6,namecheap,,,13/09/2026 00:47
-40f785f9-8050-43ba-84f3-8d97a0e6ab77,hang.cam,premium,1875,,high,low,4,name.com,,,
-052dd8c0-0cb6-4153-a363-0e1d1cb37e1c,poison.cam,premium,520,18.2,high,low,6,namecheap,,,11/09/2026 18:25
-2681c893-0ff7-4e81-81bb-68c7e4682075,ukrainian.cam,resell,,,high,low,9,Realtime Register B.V.,19/04/2023 21:21,19/04/2028 23:59,26/09/2026 09:50
-bea607e8-62b5-4b19-95e8-dc59ea0dfefd,corroded.cam,available,2.98,22.98,medium,low,8,namecheap,,,13/08/2026 02:05
-808f5317-e48c-481a-bcd3-fe021a87b9f9,atom.cam,premium,854,16.52,high,medium,4,namesilo,,,20/09/2026 21:53
-a5d8a33c-d636-4103-b887-3549c2cd5e43,unclipped.cam,available,2.98,22.98,medium,low,9,namecheap,,,12/09/2026 05:25
